@@ -75,10 +75,12 @@
 - [nestjs](#nestjs)
 - [nextjs](#nextjs)
 - [nodejs](#nodejs)
+- [npm](#npm)
 - [open-source](#open-source)
 - [operating-system](#operating-system)
 - [others](#others)
 - [p2p](#p2p)
+- [package-manager](#package-manager)
 - [php](#php)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
@@ -208,6 +210,7 @@
 
 ## cli 
 
+- [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Open source ngrok alternative designed for teams. Tunnel http, tcp or websocket connections.
 
 ## code 
@@ -548,6 +551,10 @@
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [kotritrona/osumapper](https://github.com/kotritrona/osumapper) - An automatic beatmap generator using Tensorflow / Deep Learning.
 
+## npm 
+
+- [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
+
 ## open-source 
 
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Open source ngrok alternative designed for teams. Tunnel http, tcp or websocket connections.
@@ -561,6 +568,7 @@
 
 ## others 
 
+- [studiobuttermedia/anime_api](https://github.com/studiobuttermedia/anime_api) - 
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
 - [google/mesop](https://github.com/google/mesop) - Build delightful web apps quickly in Python
 - [dreamhunter2333/cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email) - CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
@@ -674,6 +682,10 @@
 ## p2p 
 
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+
+## package-manager 
+
+- [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 
 ## php 
 
@@ -905,6 +917,7 @@
 
 ## windows 
 
+- [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [IridiumIO/CompactGUI](https://github.com/IridiumIO/CompactGUI) - Transparently compress active games and programs using Windows 10/11 APIs
 - [meetrevision/playbook](https://github.com/meetrevision/playbook) - 
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
