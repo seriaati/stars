@@ -177,6 +177,7 @@
 
 ## Others 
 
+- [Dimbreath/ZenlessData](https://github.com/Dimbreath/ZenlessData) - Repository containing the data for the game Zenless Zone Zero.
 - [studiobuttermedia/anime_api](https://github.com/studiobuttermedia/anime_api) - 
 - [ichitenfont/I.Ming](https://github.com/ichitenfont/I.Ming) - I.Ming ( I.明體 / 一点明朝体 / 一點明體 )
 - [baas-pro/baas](https://github.com/baas-pro/baas) - 蔚蓝档案 日服 国服 国际服 全自动长草脚本
