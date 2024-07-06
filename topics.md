@@ -568,6 +568,7 @@
 
 ## others 
 
+- [Dimbreath/ZenlessData](https://github.com/Dimbreath/ZenlessData) - Repository containing the data for the game Zenless Zone Zero.
 - [studiobuttermedia/anime_api](https://github.com/studiobuttermedia/anime_api) - 
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
 - [google/mesop](https://github.com/google/mesop) - Build delightful web apps quickly in Python
