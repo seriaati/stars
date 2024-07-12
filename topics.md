@@ -456,7 +456,7 @@
 ## javascript 
 
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Web OS! Free, Open-Source, and Self-Hostable.
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [theBowja/genshin-db](https://github.com/theBowja/genshin-db) - npm package with searching functions for Genshin Impact data of all in-game languages. Data parsed/organized directly from GenshinData repo.
 - [Jimboom7/AlphaJong](https://github.com/Jimboom7/AlphaJong) - A Mahjong AI for Mahjong Soul
@@ -564,7 +564,7 @@
 
 ## operating-system 
 
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Web OS! Free, Open-Source, and Self-Hostable.
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 
 ## others 
 
