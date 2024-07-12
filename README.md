@@ -130,7 +130,7 @@
 
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - save what you love
 - [deadlyjack/Acode](https://github.com/deadlyjack/Acode) - Acode - powerful text/code editor for android
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Web OS! Free, Open-Source, and Self-Hostable.
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
 - [theBowja/genshin-db](https://github.com/theBowja/genshin-db) - npm package with searching functions for Genshin Impact data of all in-game languages. Data parsed/organized directly from GenshinData repo.
