@@ -200,6 +200,7 @@
 
 ## Python 
 
+- [apify/crawlee-python](https://github.com/apify/crawlee-python) - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [jendrikseipp/vulture](https://github.com/jendrikseipp/vulture) - Find dead Python code
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
@@ -210,7 +211,6 @@
 - [Wuthery/kuro.py](https://github.com/Wuthery/kuro.py) - Async API wrapper for KuroBBS written in Python
 - [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.12. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Open source ngrok alternative designed for teams. Tunnel http, tcp or websocket connections.
-- [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 🚀 基于 LLM 大语言模型的知识库问答系统。开箱即用、模型中立、灵活编排，支持快速嵌入到第三方业务系统，1Panel 官方出品。
 - [TheFunny/ArisuAutoSweeper](https://github.com/TheFunny/ArisuAutoSweeper) - 蔚蓝档案脚本 | Blue Archive Auto Script | WIP
 - [sanmusen214/BAAH](https://github.com/sanmusen214/BAAH) - Help you automatically finish daily tasks in Blue Archive (global/Japan/CN/CN bilibili server). 碧蓝档案国际服/日服/蔚蓝档案国服官服/国服B服每日任务脚本
 - [TNXG/ProcessReporterWinpy](https://github.com/TNXG/ProcessReporterWinpy) - 
