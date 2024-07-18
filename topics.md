@@ -572,6 +572,7 @@
 
 ## others 
 
+- [seriaati/hoyo-codes](https://github.com/seriaati/hoyo-codes) - API to get gift codes from Hoyoverse games
 - [atharvakadlag/excalisave](https://github.com/atharvakadlag/excalisave) - excalisave
 - [Dimbreath/ZenlessData](https://github.com/Dimbreath/ZenlessData) - Repository containing the data for the game Zenless Zone Zero.
 - [studiobuttermedia/anime_api](https://github.com/studiobuttermedia/anime_api) - 
