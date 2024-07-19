@@ -200,6 +200,7 @@
 
 ## Python 
 
+- [lxgw/LxgwWenkaiTC](https://github.com/lxgw/LxgwWenkaiTC) - The Traditional Chinese Edition of LXGW WenKai.
 - [seriaati/hoyo-codes](https://github.com/seriaati/hoyo-codes) - API to get gift codes from Hoyoverse games
 - [apify/crawlee-python](https://github.com/apify/crawlee-python) - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
