@@ -102,7 +102,6 @@
 - [Notsfsssf/pixez-flutter](https://github.com/Notsfsssf/pixez-flutter) - 一个支持免代理直连及查看动图的第三方Pixiv flutter客户端
 - [wanghongenpin/network_proxy_flutter](https://github.com/wanghongenpin/network_proxy_flutter) - Open source free capture HTTP(S) traffic  software ProxyPin, supporting full platform systems
 - [NamanShergill/diohub](https://github.com/NamanShergill/diohub) - An open-source unofficial GitHub mobile client, that aims to deliver the ultimate GitHub experience on mobile devices.
-- [git-xiaocao/pixiv_func_mobile](https://github.com/git-xiaocao/pixiv_func_mobile) - 功能齐全的Pixiv第三方客户端 免代理 支持查看动图查看直播
 - [Dev-Salem/notat](https://github.com/Dev-Salem/notat) - a simple note-taking app with a markdown editor, built with Flutter and Firebase
 
 ## Go 
@@ -176,6 +175,7 @@
 
 ## Others 
 
+- [ButTaiwan/genyog-font](https://github.com/ButTaiwan/genyog-font) - A free font family derived from Source Han Sans.
 - [studiobuttermedia/anime_api](https://github.com/studiobuttermedia/anime_api) - 
 - [ichitenfont/I.Ming](https://github.com/ichitenfont/I.Ming) - I.Ming ( I.明體 / 一点明朝体 / 一點明體 )
 - [baas-pro/baas](https://github.com/baas-pro/baas) - 蔚蓝档案 日服 国服 国际服 全自动长草脚本
