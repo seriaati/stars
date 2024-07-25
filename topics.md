@@ -144,7 +144,6 @@
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [LouBii/OneAccount](https://github.com/LouBii/OneAccount) - 一款简约风格的记账app
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
-- [git-xiaocao/pixiv_func_mobile](https://github.com/git-xiaocao/pixiv_func_mobile) - 功能齐全的Pixiv第三方客户端 免代理 支持查看动图查看直播
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 
 ## api 
@@ -361,7 +360,6 @@
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [NamanShergill/diohub](https://github.com/NamanShergill/diohub) - An open-source unofficial GitHub mobile client, that aims to deliver the ultimate GitHub experience on mobile devices.
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
-- [git-xiaocao/pixiv_func_mobile](https://github.com/git-xiaocao/pixiv_func_mobile) - 功能齐全的Pixiv第三方客户端 免代理 支持查看动图查看直播
 
 ## flutter-apps 
 
@@ -573,6 +571,7 @@
 
 ## others 
 
+- [ButTaiwan/genyog-font](https://github.com/ButTaiwan/genyog-font) - A free font family derived from Source Han Sans.
 - [seriaati/hoyo-codes](https://github.com/seriaati/hoyo-codes) - API to get gift codes from Hoyoverse games
 - [atharvakadlag/excalisave](https://github.com/atharvakadlag/excalisave) - excalisave
 - [studiobuttermedia/anime_api](https://github.com/studiobuttermedia/anime_api) - 
