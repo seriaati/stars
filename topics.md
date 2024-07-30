@@ -154,7 +154,7 @@
 - [DEViantUA/StarRailCard](https://github.com/DEViantUA/StarRailCard) - Module for generating Honkai Star Rail character cards
 - [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [DEViantUA/EnkaCard](https://github.com/DEViantUA/EnkaCard) - Python module for generating Enka.Network cards
 - [y1ndan/genshinhelper2](https://github.com/y1ndan/genshinhelper2) - A Python library for miHoYo bbs and HoYoLAB Community. genshin 原神签到小助手 树脂提醒 微博超话 米游社米游币 崩坏3
 - [thesadru/genshinstats](https://github.com/thesadru/genshinstats) - PLEASE USE GENSHIN.PY A python library that can get the stats of Genshin Impact players using Mihoyo's API. PLEASE USE GENSHIN.PY
@@ -384,7 +384,7 @@
 ## framework 
 
 - [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 
 ## game 
@@ -489,7 +489,7 @@
 ## json 
 
 - [jcrist/msgspec](https://github.com/jcrist/msgspec) - A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [theBowja/genshin-db](https://github.com/theBowja/genshin-db) - npm package with searching functions for Genshin Impact data of all in-game languages. Data parsed/organized directly from GenshinData repo.
 
@@ -777,7 +777,7 @@
 - [RobertCraigie/prisma-client-py](https://github.com/RobertCraigie/prisma-client-py) - Prisma Client Python is an auto-generated and fully type-safe database client designed for ease of use
 - [aminalaee/sqladmin](https://github.com/aminalaee/sqladmin) - SQLAlchemy Admin for FastAPI and Starlette
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [chenjiandongx/pixiv](https://github.com/chenjiandongx/pixiv) - P 站非会员查看人气作品
@@ -801,7 +801,7 @@
 - [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo) - A fast, user friendly ORM and query builder which supports asyncio.
 - [tortoise/tortoise-orm](https://github.com/tortoise/tortoise-orm) - Familiar asyncio ORM for python, built with relations in mind
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [Gorialis/jishaku](https://github.com/Gorialis/jishaku) - A debugging and testing cog for discord.py rewrite bots.
 - [thrzl/discord-ext-forms](https://github.com/thrzl/discord-ext-forms) - ❓ a simpler way to make forms, surveys, and reaction input using discord.py.
 
@@ -943,7 +943,7 @@
 ## web 
 
 - [aminalaee/sqladmin](https://github.com/aminalaee/sqladmin) - SQLAlchemy Admin for FastAPI and Starlette
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 
