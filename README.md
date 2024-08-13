@@ -281,7 +281,7 @@
 - [hysts/anime-face-detector](https://github.com/hysts/anime-face-detector) - Anime Face Detector using mmdet and mmpose
 - [DEViantUA/ENCard](https://github.com/DEViantUA/ENCard) - ENCard resources
 - [mrwan200/pyinitgen](https://github.com/mrwan200/pyinitgen) - A CLI generate init python
-- [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
+- [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [DEViantUA/EnkaCard](https://github.com/DEViantUA/EnkaCard) - Python module for generating Enka.Network cards
 - [infstellar/genshin_impact_assistant](https://github.com/infstellar/genshin_impact_assistant) - 原神小助手 Genshin Assistant (CN/EN) | 自动战斗,秘境,领日常,半自动委托
 - [seriaati/card_game](https://github.com/seriaati/card_game) - Implementation of Genshin Impact's TCG in Discord
