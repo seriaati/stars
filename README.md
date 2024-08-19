@@ -208,6 +208,7 @@
 
 ## Python 
 
+- [seriaati/hakushin-py](https://github.com/seriaati/hakushin-py) - Async API wrapper for hakush.in written in Python.
 - [Mimino666/langdetect](https://github.com/Mimino666/langdetect) - Port of Google's language-detection library to Python.
 - [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) - Easily train a good VC model with voice data &lt;= 10 mins!
 - [rubik/radon](https://github.com/rubik/radon) - Various code metrics for Python code
@@ -256,7 +257,6 @@
 - [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) - Pydantic model and dataclasses.dataclass generator for easy conversion of JSON, OpenAPI, JSON Schema, and YAML data sources.
 - [seriaati/yatta](https://github.com/seriaati/yatta) - An async API wrapper for hsr.yatta.top written in Python.
 - [seriaati/ambr](https://github.com/seriaati/ambr) - An async API wrapper for ambr.top written in Python.
-- [linruowuyin/Fhoe-Rail](https://github.com/linruowuyin/Fhoe-Rail) - 崩坏：星穹铁道脚本 | StarRailAssistant轻量化分支 | 锄大地自动化
 - [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A Discord bot made for Hoyoverse gamers. 一個為 Hoyoverse 遊戲玩家量身訂做的 Discord 機器人
 - [moesnow/March7thAssistant](https://github.com/moesnow/March7thAssistant) - 崩坏：星穹铁道全自动 三月七小助手
 - [RobertCraigie/prisma-client-py](https://github.com/RobertCraigie/prisma-client-py) - Prisma Client Python is an auto-generated and fully type-safe database client designed for ease of use
