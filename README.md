@@ -162,7 +162,7 @@
 - [MulverineX/premid-powercord](https://github.com/MulverineX/premid-powercord) - Gives you the abilty to use premid when you launch discord without installing and running the external bloated electron tray process for an overweight IPC-Websocket bridge
 - [victornpb/undiscord](https://github.com/victornpb/undiscord) - Undiscord - Delete all messages in a Discord server / channel or DM (Easy and fast) Bulk delete
 - [aarondoet/AccountSwitcher](https://github.com/aarondoet/AccountSwitcher) - BetterDiscord plugin to switch between multiple accounts
-- [rauenzi/BetterDiscordAddons](https://github.com/rauenzi/BetterDiscordAddons) - A series of plugins and themes for BetterDiscord.
+- [zerebos/BetterDiscordAddons](https://github.com/zerebos/BetterDiscordAddons) - A series of plugins and themes for BetterDiscord.
 - [powercord-community/suggestions](https://github.com/powercord-community/suggestions) - Repo where you can find and share plugin suggestions for Powercord
 - [Mega-Mewthree/BetterDiscordPlugins](https://github.com/Mega-Mewthree/BetterDiscordPlugins) - Plugins and Libraries for BetterDiscord
 - [kasi-archive/theme-toggler](https://github.com/kasi-archive/theme-toggler) - Powercord plugin that allows toggling themes
@@ -331,7 +331,7 @@
 
 ## SCSS 
 
-- [rauenzi/Nox](https://github.com/rauenzi/Nox) - A beautiful dark material theme for Discord
+- [zerebos/Nox](https://github.com/zerebos/Nox) - A beautiful dark material theme for Discord
 - [DiscordStyles/HorizontalServerList](https://github.com/DiscordStyles/HorizontalServerList) - Moves the server list from the left to the top of Discord.
 - [TakosThings/Metro-for-Discord](https://github.com/TakosThings/Metro-for-Discord) - Make your Discord client look like a UWP app.
 - [CapnKitten/BetterDiscord](https://github.com/CapnKitten/BetterDiscord) - 
