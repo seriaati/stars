@@ -603,7 +603,7 @@
 - [ButTaiwan/genyog-font](https://github.com/ButTaiwan/genyog-font) - A free font family derived from Source Han Sans.
 - [seriaati/hoyo-codes](https://github.com/seriaati/hoyo-codes) - API to get gift codes from Hoyoverse games
 - [atharvakadlag/excalisave](https://github.com/atharvakadlag/excalisave) - excalisave
-- [studiobuttermedia/anime_api](https://github.com/studiobuttermedia/anime_api) - 
+- [studiobutter/anime_api](https://github.com/studiobutter/anime_api) - 
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [google/mesop](https://github.com/google/mesop) - Rapidly build AI apps in Python
 - [dreamhunter2333/cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email) - CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
