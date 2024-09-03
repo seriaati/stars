@@ -192,7 +192,6 @@
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
-- [ABSK495/Genshin_Paimon_Assistant](https://github.com/ABSK495/Genshin_Paimon_Assistant) - 🍭原神派懵自动化辅助🍬 - 多账号切换 | 米游社签到 | 今日天赋 | 自动砍树 | 自动拾取 | 跳过剧情 | 自动钓鱼 | 那维转圈 | 领取委托 | 攻略浏览器 | 一键强化 | 自动派遣 | 辅助传送 | 领取纪行 | 提交物品 | 一键购买 | 自动跑路 | 自动解冻 | 一键烹饪 | 自动普攻 |
 - [justfont/open-huninn-font](https://github.com/justfont/open-huninn-font) - 「jf open 粉圓」是基於 Kosugi Maru 改作， 由 justfont 設計師針對台灣日常應用加以優化的開源字型。 歡迎大家自由應用、自由調整、自由改作！
 - [FortOfFans/HSR](https://github.com/FortOfFans/HSR) - 
 - [JuanCrg90/Clean-Code-Notes](https://github.com/JuanCrg90/Clean-Code-Notes) - My notes of Clean Code book
@@ -220,7 +219,6 @@
 - [lxgw/LxgwWenkaiTC](https://github.com/lxgw/LxgwWenkaiTC) - The Traditional Chinese Edition of LXGW WenKai.
 - [seriaati/hoyo-codes](https://github.com/seriaati/hoyo-codes) - API to get gift codes from Hoyoverse games
 - [apify/crawlee-python](https://github.com/apify/crawlee-python) - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works
-- [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [jendrikseipp/vulture](https://github.com/jendrikseipp/vulture) - Find dead Python code
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [weifish0/SightPath](https://github.com/weifish0/SightPath) - 專為高中生設計的生涯探索平台
