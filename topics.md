@@ -124,7 +124,6 @@
 
 ## ai 
 
-- [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [facefusion/facefusion](https://github.com/facefusion/facefusion) - Next generation face swapper and enhancer
 - [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 - [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
@@ -512,7 +511,6 @@
 
 ## llm 
 
-- [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [TingsongYu/PyTorch-Tutorial-2nd](https://github.com/TingsongYu/PyTorch-Tutorial-2nd) - 《Pytorch实用教程》（第二版）无论是零基础入门，还是CV、NLP、LLM项目应用，或是进阶工程化部署落地，在这里都有。相信在本书的帮助下，读者将能够轻松掌握 PyTorch 的使用，成为一名优秀的深度学习工程师。
 
 ## mac 
@@ -521,7 +519,6 @@
 
 ## machine-learning 
 
-- [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [mintlify/writer](https://github.com/mintlify/writer) - ✍️ AI powered documentation writer
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
@@ -638,7 +635,6 @@
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 - [seriaati/enka-to-go](https://github.com/seriaati/enka-to-go) - Export your Enka showcase to Genshin Optimizer for damage calculation.
 - [IgorMundstein/WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner) - This free RAM cleaner uses native Windows features to optimize memory areas. It's a compact, portable, and smart application.
-- [ABSK495/Genshin_Paimon_Assistant](https://github.com/ABSK495/Genshin_Paimon_Assistant) - 🍭原神派懵自动化辅助🍬 - 多账号切换 | 米游社签到 | 今日天赋 | 自动砍树 | 自动拾取 | 跳过剧情 | 自动钓鱼 | 那维转圈 | 领取委托 | 攻略浏览器 | 一键强化 | 自动派遣 | 辅助传送 | 领取纪行 | 提交物品 | 一键购买 | 自动跑路 | 自动解冻 | 一键烹饪 | 自动普攻 |
 - [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A Discord bot made for Hoyoverse gamers. 一個為 Hoyoverse 遊戲玩家量身訂做的 Discord 機器人
 - [moesnow/March7thAssistant](https://github.com/moesnow/March7thAssistant) - 崩坏：星穹铁道全自动 三月七小助手
 - [FortOfFans/HSR](https://github.com/FortOfFans/HSR) - 
