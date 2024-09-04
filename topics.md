@@ -789,13 +789,13 @@
 - [line/line-bot-sdk-python](https://github.com/line/line-bot-sdk-python) - LINE Messaging API SDK for Python
 - [sonic182/aiosonic](https://github.com/sonic182/aiosonic) - A very fast Python asyncio http client
 - [KT-Yeh/mihomo](https://github.com/KT-Yeh/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
-- [mrwan200/pyinitgen](https://github.com/mrwan200/pyinitgen) - A CLI generate init python
+- [kuronekouwu/pyinitgen](https://github.com/kuronekouwu/pyinitgen) - A CLI generate init python
 - [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [DEViantUA/EnkaCard](https://github.com/DEViantUA/EnkaCard) - Python module for generating Enka.Network cards
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [PythonistaGuild/Wavelink](https://github.com/PythonistaGuild/Wavelink) - A powerful Lavalink library for Discord.py.
 - [Aues6uen11Z/HonkaiHelper](https://github.com/Aues6uen11Z/HonkaiHelper) - 基于图色识别和OCR的崩坏3自动化脚本
-- [mrwan200/EnkaNetwork.py](https://github.com/mrwan200/EnkaNetwork.py) - Library for fetching JSON data from site https://enka.network/ with Python
+- [kuronekouwu/EnkaNetwork.py](https://github.com/kuronekouwu/EnkaNetwork.py) - Library for fetching JSON data from site https://enka.network/ with Python
 - [thrzl/discord-ext-forms](https://github.com/thrzl/discord-ext-forms) - ❓ a simpler way to make forms, surveys, and reaction input using discord.py.
 - [vivinano/MudaeAutoBot](https://github.com/vivinano/MudaeAutoBot) - python bot that uses strictly the **Discord API** to Roll,Claim,and Kakera Snipe in Mudae. 5/10/21 project converted over to discum library
 - [kotritrona/osumapper](https://github.com/kotritrona/osumapper) - An automatic beatmap generator using Tensorflow / Deep Learning.
