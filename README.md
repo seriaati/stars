@@ -279,7 +279,7 @@
 - [KT-Yeh/mihomo](https://github.com/KT-Yeh/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
 - [hysts/anime-face-detector](https://github.com/hysts/anime-face-detector) - Anime Face Detector using mmdet and mmpose
 - [DEViantUA/ENCard](https://github.com/DEViantUA/ENCard) - ENCard resources
-- [mrwan200/pyinitgen](https://github.com/mrwan200/pyinitgen) - A CLI generate init python
+- [kuronekouwu/pyinitgen](https://github.com/kuronekouwu/pyinitgen) - A CLI generate init python
 - [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [DEViantUA/EnkaCard](https://github.com/DEViantUA/EnkaCard) - Python module for generating Enka.Network cards
 - [infstellar/genshin_impact_assistant](https://github.com/infstellar/genshin_impact_assistant) - 原神小助手 Genshin Assistant (CN/EN) | 自动战斗,秘境,领日常,半自动委托
@@ -294,7 +294,7 @@
 - [Aues6uen11Z/HonkaiHelper](https://github.com/Aues6uen11Z/HonkaiHelper) - 基于图色识别和OCR的崩坏3自动化脚本
 - [initialcommit-com/git-story](https://github.com/initialcommit-com/git-story) - Easily create video animations (.mp4) of your Git commit history, directory from your Git repo.
 - [ayaasaku/kanade_bot](https://github.com/ayaasaku/kanade_bot) - 
-- [mrwan200/EnkaNetwork.py](https://github.com/mrwan200/EnkaNetwork.py) - Library for fetching JSON data from site https://enka.network/ with Python
+- [kuronekouwu/EnkaNetwork.py](https://github.com/kuronekouwu/EnkaNetwork.py) - Library for fetching JSON data from site https://enka.network/ with Python
 - [thesadru/genshin.py](https://github.com/thesadru/genshin.py) - Modern API wrapper for Genshin Impact & Honkai Impact 3rd built on asyncio and pydantic. 原神 崩坏3
 - [seriaati/shenhe_bot](https://github.com/seriaati/shenhe_bot) - Elevate your Hoyoverse experience. 讓你的 Hoyoverse 體驗更上一層樓。
 - [Kenny2github/discord-ext-slash](https://github.com/Kenny2github/discord-ext-slash) - Support slash commands with an extension to Rapptz/discord.py
