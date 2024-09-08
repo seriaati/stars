@@ -255,7 +255,7 @@
 - [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) - Pydantic model and dataclasses.dataclass generator for easy conversion of JSON, OpenAPI, JSON Schema, and YAML data sources.
 - [seriaati/yatta](https://github.com/seriaati/yatta) - An async API wrapper for hsr.yatta.top written in Python.
 - [seriaati/ambr](https://github.com/seriaati/ambr) - An async API wrapper for ambr.top written in Python.
-- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A Discord bot made for Hoyoverse gamers. 一個為 Hoyoverse 遊戲玩家量身訂做的 Discord 機器人
+- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A Discord bot made for Hoyoverse gamers. 一個為 Hoyoverse 遊戲玩家量身打造的 Discord 機器人
 - [moesnow/March7thAssistant](https://github.com/moesnow/March7thAssistant) - 崩坏：星穹铁道全自动 三月七小助手
 - [RobertCraigie/prisma-client-py](https://github.com/RobertCraigie/prisma-client-py) - Prisma Client Python is an auto-generated and fully type-safe database client designed for ease of use
 - [aminalaee/sqladmin](https://github.com/aminalaee/sqladmin) - SQLAlchemy Admin for FastAPI and Starlette
@@ -310,6 +310,7 @@
 
 ## Rust 
 
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
 - [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time.
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
