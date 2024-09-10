@@ -24,6 +24,7 @@
 - [Rust](#rust)
 - [SCSS](#scss)
 - [Shell](#shell)
+- [Svelte](#svelte)
 - [TypeScript](#typescript)
 - [VBScript](#vbscript)
 - [Visual Basic .NET](#visual-basic-.net)
@@ -35,6 +36,7 @@
 
 ## AutoHotkey 
 
+- [UCPr251/zzzAuto](https://github.com/UCPr251/zzzAuto) - 绝区零零号空洞零号业绩刷取、零号银行刷取
 - [Getsumi3/gfn-antiafk](https://github.com/Getsumi3/gfn-antiafk) - A script that will stop Geforce Now from kicking you after 5-7 minutes of AFK.
 - [Nigh/Genshin-fishing](https://github.com/Nigh/Genshin-fishing) - Genshin auto fishing
 - [phonowell/genshin-impact-script](https://github.com/phonowell/genshin-impact-script) - 原神脚本，包含自动钓鱼、自动拾取、自动跳过对话等多项实用功能。A Genshin Impact script includes many useful features such as automatic fishing, automatic item pickup, automatic dialogue skipping, etc.
@@ -133,7 +135,6 @@
 
 ## JavaScript 
 
-- [imputnet/cobalt](https://github.com/imputnet/cobalt) - save what you love
 - [deadlyjack/Acode](https://github.com/deadlyjack/Acode) - Acode - powerful text/code editor for android
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
@@ -337,6 +338,10 @@
 ## Shell 
 
 - [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조
+
+## Svelte 
+
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 
 ## TypeScript 
 
