@@ -77,7 +77,7 @@
 - [univrsal/input-overlay](https://github.com/univrsal/input-overlay) - Show keyboard, gamepad and mouse input on stream
 - [xiaonian233/genshin-fps-unlock](https://github.com/xiaonian233/genshin-fps-unlock) - Genshin Impact Fps Unlock 原神帧率解锁
 - [mltframework/shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor
-- [SunsetMkt/Akebi-GC](https://github.com/SunsetMkt/Akebi-GC) - (Fork) The great software for some game that exploiting anime girls (and boys).
+- [A-SunsetMkt-Forks/Akebi-GC](https://github.com/A-SunsetMkt-Forks/Akebi-GC) - (Fork) The great software for some game that exploiting anime girls (and boys).
 - [HolographicHat/YaeAchievement](https://github.com/HolographicHat/YaeAchievement) - 更快、更准的原神成就导出工具
 
 ## CSS 
