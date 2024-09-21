@@ -664,7 +664,7 @@
 - [DEViantUA/ENCard](https://github.com/DEViantUA/ENCard) - ENCard resources
 - [HeyM1ke/Assist](https://github.com/HeyM1ke/Assist) - C# Valorant Thirdparty Launcher
 - [infstellar/genshin_impact_assistant](https://github.com/infstellar/genshin_impact_assistant) - 原神小助手 Genshin Assistant (CN/EN) | 自动战斗,秘境,领日常,半自动委托
-- [SunsetMkt/Akebi-GC](https://github.com/SunsetMkt/Akebi-GC) - (Fork) The great software for some game that exploiting anime girls (and boys).
+- [A-SunsetMkt-Forks/Akebi-GC](https://github.com/A-SunsetMkt-Forks/Akebi-GC) - (Fork) The great software for some game that exploiting anime girls (and boys).
 - [GenshinMatrix/genshin-woodmen](https://github.com/GenshinMatrix/genshin-woodmen) - 尘歌壶终结者(原神自动伐木姬 | Genshin Auto Wood Obtain | 原神自動伐採君)
 - [seriaati/card_game](https://github.com/seriaati/card_game) - Implementation of Genshin Impact's TCG in Discord
 - [xunkong/xunkong](https://github.com/xunkong/xunkong) - 记录旅途中发生的事
