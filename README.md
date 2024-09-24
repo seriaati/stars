@@ -202,7 +202,7 @@
 ## PowerShell 
 
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
-- [meetrevision/playbook](https://github.com/meetrevision/playbook) - 
+- [meetrevision/playbook](https://github.com/meetrevision/playbook) - A lightweight, stable, and performance-focused customized version of Windows that enhances privacy and compatibility
 
 ## Python 
 
@@ -222,7 +222,6 @@
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [weifish0/SightPath](https://github.com/weifish0/SightPath) - 專為高中生設計的生涯探索平台
 - [google/mesop](https://github.com/google/mesop) - Rapidly build AI apps in Python
-- [facefusion/facefusion](https://github.com/facefusion/facefusion) - Industry leading face manipulation platform
 - [yuka-friends/Windrecorder](https://github.com/yuka-friends/Windrecorder) - Windrecorder is a memory search app by records everything on your screen in small size, to let you rewind what you have seen, query through OCR text or image description, and get activity statistics.
 - [Wuthery/kuro.py](https://github.com/Wuthery/kuro.py) - Async API wrapper for KuroBBS written in Python
 - [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.12. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
