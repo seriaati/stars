@@ -680,7 +680,7 @@
 - [YuehaiTeam/zhiqiong](https://github.com/YuehaiTeam/zhiqiong) - 【重构中】志琼：米游社悬浮跟踪地图。Show realtime in game location in the Teyvat Interactive Map, in browser and mobile phones!
 - [EnkaNetwork/API-docs](https://github.com/EnkaNetwork/API-docs) - API documentation for the Enka.Network API responses and structure.
 - [Frontrooms/3.0-GC](https://github.com/Frontrooms/3.0-GC) - 
-- [thesadru/genshin.py](https://github.com/thesadru/genshin.py) - Modern API wrapper for Genshin Impact & Honkai Impact 3rd built on asyncio and pydantic. 原神 崩坏3
+- [thesadru/genshin.py](https://github.com/thesadru/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic.
 - [Getsumi3/gfn-antiafk](https://github.com/Getsumi3/gfn-antiafk) - A script that will stop Geforce Now from kicking you after 5-7 minutes of AFK.
 - [BlameTwo/GL](https://github.com/BlameTwo/GL) - 一个原神启动器，采用WPF-UI和WindowsAppSDK构建
 - [HolographicHat/YaeAchievement](https://github.com/HolographicHat/YaeAchievement) - 更快、更准的原神成就导出工具
