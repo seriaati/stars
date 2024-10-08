@@ -209,7 +209,7 @@
 
 - [seriaati/lumina](https://github.com/seriaati/lumina) - Your life organizer on Discord.
 - [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Discord bot that fixes social media embeds
-- [seriaati/hakushin-py](https://github.com/seriaati/hakushin-py) - Async API wrapper for hakush.in written in Python.
+- [seriaati/hakushin-py](https://github.com/seriaati/hakushin-py) - Async API wrapper for hakush.in written in Python
 - [Mimino666/langdetect](https://github.com/Mimino666/langdetect) - Port of Google's language-detection library to Python.
 - [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) - Easily train a good VC model with voice data &lt;= 10 mins!
 - [rubik/radon](https://github.com/rubik/radon) - Various code metrics for Python code
@@ -241,7 +241,7 @@
 - [txperl/PixivBiu](https://github.com/txperl/PixivBiu) - Pixiv 辅助工具
 - [takagisanmie/NIKKEAutoScript](https://github.com/takagisanmie/NIKKEAutoScript) - 胜利女神：NIKKE 自动日常脚本
 - [aio-libs/async-lru](https://github.com/aio-libs/async-lru) - Simple LRU cache for asyncio
-- [seriaati/enka-py](https://github.com/seriaati/enka-py) - An async API wrapper for enka.network written in Python, supports GI and HSR.
+- [seriaati/enka-py](https://github.com/seriaati/enka-py) - An async API wrapper for Enka Network written in Python, supports GI and HSR.
 - [DoctorReid/StarRailOneDragon](https://github.com/DoctorReid/StarRailOneDragon) - 崩坏：星穹铁道 - 一条龙 Honkai Star Rail - One Dragon | 全日常自动 | 支持黄泉 | 支持第九宇宙 | 星穹铁道锄大地 | 星穹铁道模拟宇宙 | 星穹铁道脚本 | 基于图像识别 | Star Rail Script
 - [kel-z/HSR-Scanner](https://github.com/kel-z/HSR-Scanner) - Scanner for exporting light cone, relic, and character data from Honkai: Star Rail to JSON format.
 - [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
@@ -253,8 +253,8 @@
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [seriaati/enka-to-go](https://github.com/seriaati/enka-to-go) - Export your Enka showcase to Genshin Optimizer for damage calculation.
 - [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) - Pydantic model and dataclasses.dataclass generator for easy conversion of JSON, OpenAPI, JSON Schema, and YAML data sources.
-- [seriaati/yatta](https://github.com/seriaati/yatta) - An async API wrapper for hsr.yatta.top written in Python.
-- [seriaati/ambr](https://github.com/seriaati/ambr) - An async API wrapper for ambr.top written in Python.
+- [seriaati/yatta](https://github.com/seriaati/yatta) - Async API wrapper for Project Yatta (sr.yatta.moe) written in Python
+- [seriaati/ambr](https://github.com/seriaati/ambr) - Async API wrapper for Project Amber (gi.yatta.moe) written in Python
 - [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A Discord bot made for Hoyoverse gamers. 一個為 Hoyoverse 遊戲玩家量身打造的 Discord 機器人
 - [moesnow/March7thAssistant](https://github.com/moesnow/March7thAssistant) - 崩坏：星穹铁道全自动 三月七小助手
 - [RobertCraigie/prisma-client-py](https://github.com/RobertCraigie/prisma-client-py) - Prisma Client Python is an auto-generated and fully type-safe database client designed for ease of use
