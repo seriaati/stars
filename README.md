@@ -235,7 +235,6 @@
 - [hattvr/enka-card](https://github.com/hattvr/enka-card) - A python-based card generation script that allows users to generate Enka.Network cards with ease.
 - [DEViantUA/StarRailCard](https://github.com/DEViantUA/StarRailCard) - Module for generating Honkai Star Rail character cards
 - [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
-- [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo) - A fast, user friendly ORM and query builder which supports asyncio.
 - [jcrist/msgspec](https://github.com/jcrist/msgspec) - A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML
 - [guoyww/AnimateDiff](https://github.com/guoyww/AnimateDiff) - Official implementation of AnimateDiff.
 - [guofei9987/text_blind_watermark](https://github.com/guofei9987/text_blind_watermark) - 文本盲水印：把信息隐匿到文本中，put invisible blind watermark into a text.
