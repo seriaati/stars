@@ -126,7 +126,7 @@
 ## Java 
 
 - [PojavLauncherTeam/PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) - A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. This repository contains source code for Android platform.
-- [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
+- [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
 - [LouBii/OneAccount](https://github.com/LouBii/OneAccount) - 一款简约风格的记账app
 - [Frontrooms/3.0-GC](https://github.com/Frontrooms/3.0-GC) - 
 - [cabaletta/baritone](https://github.com/cabaletta/baritone) - google maps for block game
@@ -208,6 +208,7 @@
 
 ## Python 
 
+- [seriaati/hoyo-update-notifier](https://github.com/seriaati/hoyo-update-notifier) - Notify via Discord webhook when a Hoyo game is updated/preload is available
 - [seriaati/lumina](https://github.com/seriaati/lumina) - Your life organizer on Discord.
 - [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Discord bot that fixes social media embeds
 - [seriaati/hakushin-py](https://github.com/seriaati/hakushin-py) - Async API wrapper for hakush.in written in Python
