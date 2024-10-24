@@ -291,7 +291,7 @@
 
 ## discord 
 
-- [pyoncord/Bunny](https://github.com/pyoncord/Bunny) - A client mod for Discord mobile, fork of Vendetta
+- [bunny-mod/Bunny](https://github.com/bunny-mod/Bunny) - A client mod for Discord mobile, fork of Vendetta
 - [Wikidepia/InstaFix](https://github.com/Wikidepia/InstaFix) - Fix Instagram embeds in Discord (and Telegram!)
 - [refact0r/midnight-discord](https://github.com/refact0r/midnight-discord) - A dark, rounded discord theme.
 - [HazelTheWitch/phixiv](https://github.com/HazelTheWitch/phixiv) - pixiv embed fixer.
@@ -815,7 +815,7 @@
 - [tortoise/tortoise-orm](https://github.com/tortoise/tortoise-orm) - Familiar asyncio ORM for python, built with relations in mind
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
-- [Gorialis/jishaku](https://github.com/Gorialis/jishaku) - A debugging and testing cog for discord.py rewrite bots.
+- [scarletcafe/jishaku](https://github.com/scarletcafe/jishaku) - A debugging and testing cog for discord.py rewrite bots.
 - [thrzl/discord-ext-forms](https://github.com/thrzl/discord-ext-forms) - ❓ a simpler way to make forms, surveys, and reaction input using discord.py.
 
 ## pytorch 
@@ -834,7 +834,7 @@
 
 ## react-native 
 
-- [pyoncord/Bunny](https://github.com/pyoncord/Bunny) - A client mod for Discord mobile, fork of Vendetta
+- [bunny-mod/Bunny](https://github.com/bunny-mod/Bunny) - A client mod for Discord mobile, fork of Vendetta
 - [alphasp/pxview](https://github.com/alphasp/pxview) - An unofficial Pixiv app client for Android and iOS, built with React Native.
 
 ## reactjs 
