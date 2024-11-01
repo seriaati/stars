@@ -358,6 +358,7 @@
 
 ## firefox 
 
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [mherrmann/helium](https://github.com/mherrmann/helium) - Lighter web automation with Python
 - [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
 - [leoding86/webextension-pixiv-toolkit](https://github.com/leoding86/webextension-pixiv-toolkit) - A web extension for Pixiv
