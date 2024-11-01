@@ -82,6 +82,7 @@
 
 ## CSS 
 
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [refact0r/midnight-discord](https://github.com/refact0r/midnight-discord) - A dark, rounded discord theme.
 - [warrayquipsome/Chillax](https://github.com/warrayquipsome/Chillax) - A theme created by wq, who was an author of Novaturient. It's theme design is mainly modern, clean, simple and creative. To be honest, he wasn't thinking of making this theme so famous, he was just cr
 - [LuckFire/amoled-cord](https://github.com/LuckFire/amoled-cord) - A basically pitch black theme for Discord. Lights out, baby!
