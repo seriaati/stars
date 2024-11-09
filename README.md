@@ -18,6 +18,7 @@
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
+- [Lua](#lua)
 - [Others](#others)
 - [PowerShell](#powershell)
 - [Python](#python)
@@ -183,6 +184,10 @@
 - [VREMSoftwareDevelopment/WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) - Android application to analyze WiFi signals.
 - [lavalink-devs/Lavalink](https://github.com/lavalink-devs/Lavalink) - Standalone audio sending node based on Lavaplayer.
 
+## Lua 
+
+- [takushun-wu/WenJinMincho](https://github.com/takushun-wu/WenJinMincho) - 可免费商用的大字符集宋体字库，以OFL协议发布。/A large character set fonts in Songti(Mincho) style. Licensed under the SIL OFL 1.1.
+
 ## Others 
 
 - [ButTaiwan/genryu-font](https://github.com/ButTaiwan/genryu-font) - A free font family derived from Source Han Serif.
@@ -337,7 +342,6 @@
 
 ## Shell 
 
-- [takushun-wu/WenJinMincho](https://github.com/takushun-wu/WenJinMincho) - 可免费商用的大字符集宋体字库，以OFL协议发布。/A large character set fonts in Songti(Mincho) style. Licensed under the SIL OFL 1.1.
 - [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조
 
 ## Svelte 
@@ -352,7 +356,7 @@
 - [atharvakadlag/excalisave](https://github.com/atharvakadlag/excalisave) - excalisave
 - [mintlify/writer](https://github.com/mintlify/writer) - ✍️ AI powered documentation writer
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
-- [bunny-mod/Bunny](https://github.com/bunny-mod/Bunny) - A client mod for Discord mobile, fork of Vendetta
+- [bunny-mod/Bunny](https://github.com/bunny-mod/Bunny) - A Discord mobile app client modification.
 - [Britmoji/tiktxk](https://github.com/Britmoji/tiktxk) - tiktxk will rock your s/o/x off — this is war you "hackerman" 🤓
 - [MinnDevelopment/fxreddit](https://github.com/MinnDevelopment/fxreddit) - Provides improved reddit embeds for services such as Discord.
 - [fribbels/hsr-optimizer](https://github.com/fribbels/hsr-optimizer) - A Honkai Star Rail optimizer, relic scorer, damage calculator, and various other tools for building and gearing characters
