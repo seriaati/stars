@@ -191,7 +191,7 @@
 
 ## bot 
 
-- [DoctorReid/StarRailOneDragon](https://github.com/DoctorReid/StarRailOneDragon) - 崩坏：星穹铁道 - 一条龙 Honkai Star Rail - One Dragon | 全日常自动 | 支持黄泉 | 支持第九宇宙 | 星穹铁道锄大地 | 星穹铁道模拟宇宙 | 星穹铁道脚本 | 基于图像识别 | Star Rail Script
+- [DoctorReid/StarRailOneDragon](https://github.com/DoctorReid/StarRailOneDragon) - 崩坏：星穹铁道 - 一条龙 Honkai Star Rail - One Dragon | 全日常自动 |
 - [line/line-bot-sdk-python](https://github.com/line/line-bot-sdk-python) - LINE Messaging API SDK for Python
 - [Jimboom7/AlphaJong](https://github.com/Jimboom7/AlphaJong) - A Mahjong AI for Mahjong Soul
 - [KT-Yeh/Genshin-Discord-Bot](https://github.com/KT-Yeh/Genshin-Discord-Bot) - 原神小幫手：一個多功能的 原神 & 星穹鐵道 Discord Bot 機器人，包含：即時便箋、Hoyolab 每日自動簽到、角色展示櫃、深境螺旋紀錄、旅行者札記...等等
