@@ -248,7 +248,7 @@
 - [takagisanmie/NIKKEAutoScript](https://github.com/takagisanmie/NIKKEAutoScript) - 胜利女神：NIKKE 自动日常脚本
 - [aio-libs/async-lru](https://github.com/aio-libs/async-lru) - Simple LRU cache for asyncio
 - [seriaati/enka-py](https://github.com/seriaati/enka-py) - An async API wrapper for Enka Network written in Python, supports GI and HSR.
-- [DoctorReid/StarRailOneDragon](https://github.com/DoctorReid/StarRailOneDragon) - 崩坏：星穹铁道 - 一条龙 Honkai Star Rail - One Dragon | 全日常自动 | 支持黄泉 | 支持第九宇宙 | 星穹铁道锄大地 | 星穹铁道模拟宇宙 | 星穹铁道脚本 | 基于图像识别 | Star Rail Script
+- [DoctorReid/StarRailOneDragon](https://github.com/DoctorReid/StarRailOneDragon) - 崩坏：星穹铁道 - 一条龙 Honkai Star Rail - One Dragon | 全日常自动 |
 - [kel-z/HSR-Scanner](https://github.com/kel-z/HSR-Scanner) - Scanner for exporting light cone, relic, and character data from Honkai: Star Rail to JSON format.
 - [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
 - [pur1fying/blue_archive_auto_script](https://github.com/pur1fying/blue_archive_auto_script) - 用于实现蔚蓝档案自动化
