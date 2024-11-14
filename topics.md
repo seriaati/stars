@@ -598,7 +598,7 @@
 - [test01wrk/MIUIPerfSaver](https://github.com/test01wrk/MIUIPerfSaver) - Remove MIUI's performance limit, run app at maximum FPS
 - [VendroidEnhanced/Vendroid](https://github.com/VendroidEnhanced/Vendroid) - VendroidEnhanced is a fork of Vendroid, a custom client for Discord that loads the mobile website and injects Vencord, the cutest client mod.
 - [seriaati/lumina](https://github.com/seriaati/lumina) - Your life organizer on Discord.
-- [UCPr251/zzzAuto](https://github.com/UCPr251/zzzAuto) - 绝区零零号空洞零号业绩刷取、零号银行刷取
+- [UCPr251/zzzAuto](https://github.com/UCPr251/zzzAuto) - 绝区零零号业绩刷取、零号银行、拿命验收刷取
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [ButTaiwan/genryu-font](https://github.com/ButTaiwan/genryu-font) - A free font family derived from Source Han Serif.
 - [Mimino666/langdetect](https://github.com/Mimino666/langdetect) - Port of Google's language-detection library to Python.
