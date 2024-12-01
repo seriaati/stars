@@ -42,6 +42,7 @@
 - [documentation](#documentation)
 - [dotnet](#dotnet)
 - [electron](#electron)
+- [emoji](#emoji)
 - [ethereum](#ethereum)
 - [firefox](#firefox)
 - [flutter](#flutter)
@@ -195,6 +196,7 @@
 
 ## bot 
 
+- [InterStella0/stemoji](https://github.com/InterStella0/stemoji) - A discord bot that utilizes the discord application emoji feature as your custom emoji use!
 - [DoctorReid/StarRailOneDragon](https://github.com/DoctorReid/StarRailOneDragon) - 崩坏：星穹铁道 - 一条龙 Honkai Star Rail - One Dragon | 全日常自动 |
 - [line/line-bot-sdk-python](https://github.com/line/line-bot-sdk-python) - LINE Messaging API SDK for Python
 - [Jimboom7/AlphaJong](https://github.com/Jimboom7/AlphaJong) - A Mahjong AI for Mahjong Soul
@@ -296,6 +298,7 @@
 
 ## discord 
 
+- [InterStella0/stemoji](https://github.com/InterStella0/stemoji) - A discord bot that utilizes the discord application emoji feature as your custom emoji use!
 - [bunny-mod/Bunny](https://github.com/bunny-mod/Bunny) - A Discord mobile app client modification.
 - [Wikidepia/InstaFix](https://github.com/Wikidepia/InstaFix) - Fix Instagram embeds in Discord (and Telegram!)
 - [refact0r/midnight-discord](https://github.com/refact0r/midnight-discord) - A dark, rounded discord theme.
@@ -357,6 +360,10 @@
 ## electron 
 
 - [MajsoulPlus/majsoul-plus](https://github.com/MajsoulPlus/majsoul-plus) - 雀魂Plus——雀魂麻将Majsoul专用浏览器，提供了一些专有特性
+
+## emoji 
+
+- [InterStella0/stemoji](https://github.com/InterStella0/stemoji) - A discord bot that utilizes the discord application emoji feature as your custom emoji use!
 
 ## ethereum 
 
@@ -759,6 +766,7 @@
 
 ## postgresql 
 
+- [InterStella0/stemoji](https://github.com/InterStella0/stemoji) - A discord bot that utilizes the discord application emoji feature as your custom emoji use!
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [tortoise/tortoise-orm](https://github.com/tortoise/tortoise-orm) - Familiar asyncio ORM for python, built with relations in mind
 - [RobertCraigie/prisma-client-py](https://github.com/RobertCraigie/prisma-client-py) - Prisma Client Python is an auto-generated and fully type-safe database client designed for ease of use
@@ -787,6 +795,7 @@
 
 ## python 
 
+- [InterStella0/stemoji](https://github.com/InterStella0/stemoji) - A discord bot that utilizes the discord application emoji feature as your custom emoji use!
 - [vietnh1009/ASCII-generator](https://github.com/vietnh1009/ASCII-generator) - ASCII generator (image to text, image to image, video to video)
 - [seriaati/hakushin-py](https://github.com/seriaati/hakushin-py) - Async API wrapper for hakush.in written in Python
 - [rubik/radon](https://github.com/rubik/radon) - Various code metrics for Python code
@@ -918,6 +927,7 @@
 
 ## sqlite 
 
+- [InterStella0/stemoji](https://github.com/InterStella0/stemoji) - A discord bot that utilizes the discord application emoji feature as your custom emoji use!
 - [tortoise/tortoise-orm](https://github.com/tortoise/tortoise-orm) - Familiar asyncio ORM for python, built with relations in mind
 - [RobertCraigie/prisma-client-py](https://github.com/RobertCraigie/prisma-client-py) - Prisma Client Python is an auto-generated and fully type-safe database client designed for ease of use
 
