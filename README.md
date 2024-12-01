@@ -217,6 +217,7 @@
 
 ## Python 
 
+- [InterStella0/stemoji](https://github.com/InterStella0/stemoji) - A discord bot that utilizes the discord application emoji feature as your custom emoji use!
 - [vietnh1009/ASCII-generator](https://github.com/vietnh1009/ASCII-generator) - ASCII generator (image to text, image to image, video to video)
 - [ButTaiwan/iansui](https://github.com/ButTaiwan/iansui) - 芫荽，基於 Klee One 改造的學習用台灣繁體字型
 - [seriaati/hoyo-update-notifier](https://github.com/seriaati/hoyo-update-notifier) - Notify via Discord webhook when a Hoyo game is updated/preload is available
