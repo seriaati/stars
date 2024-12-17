@@ -165,7 +165,6 @@
 - [MulverineX/premid-powercord](https://github.com/MulverineX/premid-powercord) - Gives you the abilty to use premid when you launch discord without installing and running the external bloated electron tray process for an overweight IPC-Websocket bridge
 - [victornpb/undiscord](https://github.com/victornpb/undiscord) - Undiscord - Delete all messages in a Discord server / channel or DM (Easy and fast) Bulk delete
 - [aarondoet/AccountSwitcher](https://github.com/aarondoet/AccountSwitcher) - BetterDiscord plugin to switch between multiple accounts
-- [zerebos/BetterDiscordAddons](https://github.com/zerebos/BetterDiscordAddons) - A series of plugins and themes for BetterDiscord.
 - [powercord-community/suggestions](https://github.com/powercord-community/suggestions) - Repo where you can find and share plugin suggestions for Powercord
 - [Mega-Mewthree/BetterDiscordPlugins](https://github.com/Mega-Mewthree/BetterDiscordPlugins) - Plugins and Libraries for BetterDiscord
 - [kasi-archive/theme-toggler](https://github.com/kasi-archive/theme-toggler) - Powercord plugin that allows toggling themes
@@ -384,6 +383,7 @@
 - [GenKitCN/gcdoc](https://github.com/GenKitCN/gcdoc) - A Chinese unofficial documents site.
 - [frzyc/genshin-optimizer](https://github.com/frzyc/genshin-optimizer) - An Artifact optimizer for Genshin Impact.
 - [MajsoulPlus/majsoul-plus](https://github.com/MajsoulPlus/majsoul-plus) - 雀魂Plus——雀魂麻将Majsoul专用浏览器，提供了一些专有特性
+- [zerebos/BetterDiscordAddons](https://github.com/zerebos/BetterDiscordAddons) - A series of plugins and themes for BetterDiscord.
 
 ## VBScript 
 
