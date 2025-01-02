@@ -649,7 +649,7 @@
 - [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode) - Acode - powerful text/code editor for android
 - [univrsal/input-overlay](https://github.com/univrsal/input-overlay) - Show keyboard, gamepad and mouse input on stream
 - [Wuthery/kuro.py](https://github.com/Wuthery/kuro.py) - Async API wrapper for KuroBBS written in Python
-- [babalae/better-genshin-impact](https://github.com/babalae/better-genshin-impact) - 📦BetterGI · 更好的原神 - 自动拾取 | 自动剧情 | 全自动钓鱼(AI) | 全自动七圣召唤 | 自动伐木 | 自动刷本 | 自动采集/挖矿/锄地 | 一条龙 - UI Automation Testing Tools For Genshin Impact
+- [babalae/better-genshin-impact](https://github.com/babalae/better-genshin-impact) - 📦BetterGI · 更好的原神 - 自动拾取 | 自动剧情 | 全自动钓鱼(AI) | 全自动七圣召唤 | 自动伐木 | 自动刷本 | 自动采集/挖矿/锄地 | 一条龙 | 自动音游 - UI Automation Testing Tools For Genshin Impact
 - [IceDynamix/reliquary-archiver](https://github.com/IceDynamix/reliquary-archiver) - tool to create a relic export from network packets of a certain turn-based anime game
 - [TheFunny/ArisuAutoSweeper](https://github.com/TheFunny/ArisuAutoSweeper) - 蔚蓝档案脚本 | Blue Archive Auto Script | WIP
 - [sanmusen214/BAAH](https://github.com/sanmusen214/BAAH) - A script that can automatically finish daily tasks in Blue Archive (global/Japan/CN/CN bilibili server). 碧蓝档案国际服/日服/蔚蓝档案国服/B服每日任务脚本
