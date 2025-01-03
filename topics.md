@@ -278,7 +278,7 @@
 ## dart 
 
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-- [NamanShergill/diohub](https://github.com/NamanShergill/diohub) - An open-source unofficial GitHub mobile client, that aims to deliver the ultimate GitHub experience on mobile devices.
+- [namanshergill/diohub](https://github.com/namanshergill/diohub) - An open-source unofficial GitHub mobile client, that aims to deliver the ultimate GitHub experience on mobile devices.
 
 ## data 
 
@@ -383,7 +383,7 @@
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [Notsfsssf/pixez-flutter](https://github.com/Notsfsssf/pixez-flutter) - 一个支持免代理直连及查看动图的第三方Pixiv flutter客户端
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-- [NamanShergill/diohub](https://github.com/NamanShergill/diohub) - An open-source unofficial GitHub mobile client, that aims to deliver the ultimate GitHub experience on mobile devices.
+- [namanshergill/diohub](https://github.com/namanshergill/diohub) - An open-source unofficial GitHub mobile client, that aims to deliver the ultimate GitHub experience on mobile devices.
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
 
 ## flutter-apps 
@@ -430,7 +430,7 @@
 
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
-- [NamanShergill/diohub](https://github.com/NamanShergill/diohub) - An open-source unofficial GitHub mobile client, that aims to deliver the ultimate GitHub experience on mobile devices.
+- [namanshergill/diohub](https://github.com/namanshergill/diohub) - An open-source unofficial GitHub mobile client, that aims to deliver the ultimate GitHub experience on mobile devices.
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 
