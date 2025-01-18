@@ -718,7 +718,7 @@
 - [thesadru/genshin.py](https://github.com/thesadru/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic.
 - [Getsumi3/gfn-antiafk](https://github.com/Getsumi3/gfn-antiafk) - A script that will stop Geforce Now from kicking you after 5-7 minutes of AFK.
 - [BlameTwo/GL](https://github.com/BlameTwo/GL) - 一个原神启动器，采用WPF-UI和WindowsAppSDK构建
-- [HolographicHat/YaeAchievement](https://github.com/HolographicHat/YaeAchievement) - 更快、更准的原神成就导出工具
+- [HolographicHat/Yae](https://github.com/HolographicHat/Yae) - 更快、更准的原神数据导出工具
 - [TAG-Epic/slashify](https://github.com/TAG-Epic/slashify) - Convert discord.py commands to slash commands!
 - [GoneTone/genshin-impact-wish-gacha-analyzer](https://github.com/GoneTone/genshin-impact-wish-gacha-analyzer) - 原神祈願卡池分析 Genshin Impact Wish Gacha Analyzer | A utility for analyzing gacha history, where all data and numbers are well-organized in a convenient manner!
 - [Nigh/Genshin-fishing](https://github.com/Nigh/Genshin-fishing) - Genshin auto fishing
