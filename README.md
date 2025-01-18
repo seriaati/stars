@@ -69,7 +69,7 @@
 - [babalae/genshin-fishing-toy](https://github.com/babalae/genshin-fishing-toy) - 🐟 原神自动钓鱼机，有界面且操作简单。Genshin Impact Automatic Fishing Machine.
 - [imbushuo/EnergyStar](https://github.com/imbushuo/EnergyStar) - A terrible application setting SV2 Efficiency Mode for inactive Windows apps and user background apps
 - [BlameTwo/GL](https://github.com/BlameTwo/GL) - 一个原神启动器，采用WPF-UI和WindowsAppSDK构建
-- [HolographicHat/YaeAchievement](https://github.com/HolographicHat/YaeAchievement) - 更快、更准的原神成就导出工具
+- [HolographicHat/Yae](https://github.com/HolographicHat/Yae) - 更快、更准的原神数据导出工具
 - [DawnFz/Genshin.Launcher.Plus](https://github.com/DawnFz/Genshin.Launcher.Plus) - [原神启动器Plus] lightweight globalized Genshin Impact launcher. Support arbitrarily resolution ratio, account switching, client convertion, FPS unlocking and more!
 - [Andrewthe13th/Inventory_Kamera](https://github.com/Andrewthe13th/Inventory_Kamera) - Scans Genshin Impact characters, artifacts, and weapons from the game window into a JSON file.
 - [sabihoshi/GenshinLauncher](https://github.com/sabihoshi/GenshinLauncher) - A Genshin Impact launcher with more options in Modern Fluent UI. Includes borderless.
@@ -157,7 +157,6 @@
 - [leoding86/webextension-pixiv-toolkit](https://github.com/leoding86/webextension-pixiv-toolkit) - A web extension for Pixiv
 - [zt64/dm-typing-indicator](https://github.com/zt64/dm-typing-indicator) - A Powercord plugin that displays whenever users are typing in DMs. Compatible with online-friends-count.
 - [GooseMod-Modules/WebRightClick](https://github.com/GooseMod-Modules/WebRightClick) - Enables right click context menus for Discord web app (normally disabled)
-- [cpinitiative/ide](https://github.com/cpinitiative/ide) - A realtime collaborative IDE with code execution, intellisense, mobile support, and built-in USACO submissions.
 - [notsapinho/powercord-together](https://github.com/notsapinho/powercord-together) - Watch youtube, play poker and many others games together!
 - [UsernameFull/majsoul_mod](https://github.com/UsernameFull/majsoul_mod) - 雀魂majsoul的一个mod,用于majsoul-plus。可解锁全人物，道具等。
 - [Fr0stbyteR/Majsoul-Helper](https://github.com/Fr0stbyteR/Majsoul-Helper) - 使用天凤牌理规则，根据牌效将推荐切牌染色
@@ -352,6 +351,7 @@
 ## Svelte 
 
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
+- [cpinitiative/ide](https://github.com/cpinitiative/ide) - A realtime collaborative IDE with code execution, intellisense, mobile support, and built-in USACO submissions.
 
 ## TypeScript 
 
