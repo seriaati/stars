@@ -727,7 +727,7 @@
 - [luern0313/WindSong-Lyre-Genshin-Impact](https://github.com/luern0313/WindSong-Lyre-Genshin-Impact) - 【原神】自动演奏风物之诗琴的程序
 - [kongying-tavern/yuan-shen-map](https://github.com/kongying-tavern/yuan-shen-map) - 🗺️ 空荧酒馆原神地图网页版仓库（v1）
 - [sabihoshi/GenshinLauncher](https://github.com/sabihoshi/GenshinLauncher) - A Genshin Impact launcher with more options in Modern Fluent UI. Includes borderless.
-- [ewen-lbh/smooth-cursorify](https://github.com/ewen-lbh/smooth-cursorify) - Applies a Microsoft Word-like smooth caret animation to multiple online editors
+- [gwennlbh/smooth-cursorify](https://github.com/gwennlbh/smooth-cursorify) - Applies a Microsoft Word-like smooth caret animation to multiple online editors
 - [biuuu/genshin-wish-export](https://github.com/biuuu/genshin-wish-export) - Easily export the Genshin Impact wish record.
 - [phonowell/genshin-impact-script](https://github.com/phonowell/genshin-impact-script) - 原神脚本，包含自动钓鱼、自动拾取、自动跳过对话等多项实用功能。A Genshin Impact script includes many useful features such as automatic fishing, automatic item pickup, automatic dialogue skipping, etc.
 - [zt64/dm-typing-indicator](https://github.com/zt64/dm-typing-indicator) - A Powercord plugin that displays whenever users are typing in DMs. Compatible with online-friends-count.
