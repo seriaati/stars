@@ -151,7 +151,7 @@
 - [riolubruh/YABDP4Nitro](https://github.com/riolubruh/YABDP4Nitro) - Yet Another BetterDiscord Plugin for Nitro features. Unlock screensharing modes, use cross-server and gif emotes and much more!
 - [zyr17/MajsoulPaipuAnalyzer](https://github.com/zyr17/MajsoulPaipuAnalyzer) - 雀魂牌谱分析工具
 - [kongying-tavern/yuan-shen-map](https://github.com/kongying-tavern/yuan-shen-map) - 🗺️ 空荧酒馆原神地图网页版仓库（v1）
-- [ewen-lbh/smooth-cursorify](https://github.com/ewen-lbh/smooth-cursorify) - Applies a Microsoft Word-like smooth caret animation to multiple online editors
+- [gwennlbh/smooth-cursorify](https://github.com/gwennlbh/smooth-cursorify) - Applies a Microsoft Word-like smooth caret animation to multiple online editors
 - [MadeBaruna/paimon-moe](https://github.com/MadeBaruna/paimon-moe) - Your best Genshin Impact companion! Help you plan what to farm with ascension calculator and database. Also track your progress with todo and wish counter.
 - [biuuu/genshin-wish-export](https://github.com/biuuu/genshin-wish-export) - Easily export the Genshin Impact wish record.
 - [leoding86/webextension-pixiv-toolkit](https://github.com/leoding86/webextension-pixiv-toolkit) - A web extension for Pixiv
