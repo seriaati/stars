@@ -312,7 +312,7 @@
 - [ayaasaku/kanade_bot](https://github.com/ayaasaku/kanade_bot) - 
 - [lavalink-devs/Lavalink](https://github.com/lavalink-devs/Lavalink) - Standalone audio sending node based on Lavaplayer.
 - [seriaati/shenhe_bot](https://github.com/seriaati/shenhe_bot) - Elevate your Hoyoverse experience. 讓你的 Hoyoverse 體驗更上一層樓。
-- [Kenny2github/discord-ext-slash](https://github.com/Kenny2github/discord-ext-slash) - Support slash commands with an extension to Rapptz/discord.py
+- [Kenny2github/discord-ext-slash](https://github.com/Kenny2github/discord-ext-slash) - UNMAINTAINED, use discord.py - Support slash commands with an extension to Rapptz/discord.py
 - [KT-Yeh/Genshin-Discord-Bot](https://github.com/KT-Yeh/Genshin-Discord-Bot) - 原神小幫手：一個多功能的 原神 & 星穹鐵道 Discord Bot 機器人，包含：即時便箋、Hoyolab 每日自動簽到、角色展示櫃、深境螺旋紀錄、旅行者札記...等等
 - [thrzl/discord-ext-forms](https://github.com/thrzl/discord-ext-forms) - ❓ a simpler way to make forms, surveys, and reaction input using discord.py.
 - [CapnKitten/Translucence](https://github.com/CapnKitten/Translucence) - A translucent/frosted glass theme for Discord
