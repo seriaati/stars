@@ -307,7 +307,7 @@
 - [mrwan2546/EnkaNetwork.py](https://github.com/mrwan2546/EnkaNetwork.py) - Library for fetching JSON data from site https://enka.network/ with Python
 - [thesadru/genshin.py](https://github.com/thesadru/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic.
 - [seriaati/shenhe_bot](https://github.com/seriaati/shenhe_bot) - Elevate your Hoyoverse experience. 讓你的 Hoyoverse 體驗更上一層樓。
-- [Kenny2github/discord-ext-slash](https://github.com/Kenny2github/discord-ext-slash) - Support slash commands with an extension to Rapptz/discord.py
+- [Kenny2github/discord-ext-slash](https://github.com/Kenny2github/discord-ext-slash) - UNMAINTAINED, use discord.py - Support slash commands with an extension to Rapptz/discord.py
 - [KT-Yeh/Genshin-Discord-Bot](https://github.com/KT-Yeh/Genshin-Discord-Bot) - 原神小幫手：一個多功能的 原神 & 星穹鐵道 Discord Bot 機器人，包含：即時便箋、Hoyolab 每日自動簽到、角色展示櫃、深境螺旋紀錄、旅行者札記...等等
 - [TAG-Epic/slashify](https://github.com/TAG-Epic/slashify) - Convert discord.py commands to slash commands!
 - [thrzl/discord-ext-forms](https://github.com/thrzl/discord-ext-forms) - ❓ a simpler way to make forms, surveys, and reaction input using discord.py.
