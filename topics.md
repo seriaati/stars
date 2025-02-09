@@ -468,7 +468,7 @@
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [lavalink-devs/Lavalink](https://github.com/lavalink-devs/Lavalink) - Standalone audio sending node based on Lavaplayer.
-- [frzyc/genshin-optimizer](https://github.com/frzyc/genshin-optimizer) - An Artifact optimizer for Genshin Impact.
+- [frzyc/genshin-optimizer](https://github.com/frzyc/genshin-optimizer) - An Artifact optimizer for Genshin Impact(And other Gacha games).
 
 ## http 
 
@@ -865,7 +865,7 @@
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [alphasp/pxview](https://github.com/alphasp/pxview) - An unofficial Pixiv app client for Android and iOS, built with React Native.
-- [frzyc/genshin-optimizer](https://github.com/frzyc/genshin-optimizer) - An Artifact optimizer for Genshin Impact.
+- [frzyc/genshin-optimizer](https://github.com/frzyc/genshin-optimizer) - An Artifact optimizer for Genshin Impact(And other Gacha games).
 
 ## react-native 
 
@@ -975,7 +975,7 @@
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link attribution platform. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
-- [frzyc/genshin-optimizer](https://github.com/frzyc/genshin-optimizer) - An Artifact optimizer for Genshin Impact.
+- [frzyc/genshin-optimizer](https://github.com/frzyc/genshin-optimizer) - An Artifact optimizer for Genshin Impact(And other Gacha games).
 
 ## ubuntu 
 
