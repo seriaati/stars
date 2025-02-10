@@ -479,6 +479,7 @@
 ## instagram 
 
 - [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Discord bot that fixes social media embeds
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [Wikidepia/InstaFix](https://github.com/Wikidepia/InstaFix) - Fix Instagram embeds in Discord (and Telegram!)
 
 ## ios 
