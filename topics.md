@@ -155,6 +155,7 @@
 
 ## api 
 
+- [injahow/bilibili-parse](https://github.com/injahow/bilibili-parse) - bilibili Video API
 - [DEViantUA/StarRailCard](https://github.com/DEViantUA/StarRailCard) - Module for generating Honkai Star Rail character cards
 - [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -761,6 +762,7 @@
 
 ## php 
 
+- [injahow/bilibili-parse](https://github.com/injahow/bilibili-parse) - bilibili Video API
 - [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
 
 ## postgresql 
