@@ -20,6 +20,7 @@
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [Others](#others)
+- [PHP](#php)
 - [PowerShell](#powershell)
 - [Python](#python)
 - [Rust](#rust)
@@ -207,6 +208,10 @@
 - [SpeedyOrc-C/HoYo-Glyphs](https://github.com/SpeedyOrc-C/HoYo-Glyphs) - Constructed scripts by HoYoverse 米哈游的架空文字
 - [taofan233/azurlane_uncensored](https://github.com/taofan233/azurlane_uncensored) - 碧蓝航线反和谐
 - [Discord-Custom-Covers/usrbg](https://github.com/Discord-Custom-Covers/usrbg) - A database of custom user requested backgrounds for @Discord.
+
+## PHP 
+
+- [injahow/bilibili-parse](https://github.com/injahow/bilibili-parse) - bilibili Video API
 
 ## PowerShell 
 
