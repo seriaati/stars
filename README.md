@@ -376,6 +376,7 @@
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
+- [dukeluo/wai](https://github.com/dukeluo/wai) - 一款可以预防颈椎病的新标签页扩展。
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link attribution platform. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
@@ -402,7 +403,6 @@
 - [BewlyBewly/BewlyBewly](https://github.com/BewlyBewly/BewlyBewly) - Just make a few small changes to your Bilibili homepage. (English | 简体中文 | 正體中文 | 廣東話)
 - [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 - [dreamhunter2333/cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email) - CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
-- [dukeluo/wai](https://github.com/dukeluo/wai) - 一款可以预防颈椎病的新标签页扩展。
 - [man90es/Genshin-Party-Builder](https://github.com/man90es/Genshin-Party-Builder) - AI-assisted party creation tool for Genshin Impact. It helps beginners to assemble well-rounded teams no matter how many or which characters they have.
 
 
