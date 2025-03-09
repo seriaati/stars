@@ -633,7 +633,7 @@
 - [ButTaiwan/iansui](https://github.com/ButTaiwan/iansui) - 芫荽，基於 Klee One 改造的學習用台灣繁體字型
 - [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
 - [takushun-wu/WenJinMincho](https://github.com/takushun-wu/WenJinMincho) - 可免费商用的大字符集宋体字库，以OFL协议发布。/A large character set fonts in Songti(Mincho) style. Licensed under the SIL OFL 1.1.
-- [test01wrk/MIUIPerfSaver](https://github.com/test01wrk/MIUIPerfSaver) - Remove MIUI's performance limit, run app at maximum FPS
+- [rdtoy/MIUIPerfSaver](https://github.com/rdtoy/MIUIPerfSaver) - Remove MIUI's performance limit, run app at maximum FPS
 - [nin0-dev/VendroidEnhanced](https://github.com/nin0-dev/VendroidEnhanced) - VendroidEnhanced is a fork of Vendroid, a custom client for Discord that loads the mobile website and injects Vencord, the cutest client mod.
 - [seriaati/lumina](https://github.com/seriaati/lumina) - Your life organizer on Discord.
 - [UCPr251/zzzAuto](https://github.com/UCPr251/zzzAuto) - 绝区零零号业绩刷取、零号银行、拿命验收刷取
