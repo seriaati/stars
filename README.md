@@ -220,6 +220,7 @@
 
 ## Python 
 
+- [MaaXYZ/M9A](https://github.com/MaaXYZ/M9A) - 重返未来：1999 小助手
 - [overflow65537/MAA_SnowBreak](https://github.com/overflow65537/MAA_SnowBreak) - 尘白禁区每日任务自动化 | Assistant For Snowbreak: Containment Zone
 - [InterStella0/stemoji](https://github.com/InterStella0/stemoji) - A discord bot that utilizes the discord application emoji feature as your custom emoji use!
 - [vietnh1009/ASCII-generator](https://github.com/vietnh1009/ASCII-generator) - ASCII generator (image to text, image to image, video to video)
@@ -382,7 +383,7 @@
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link attribution platform. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
-- [FixTweet/FxTwitter](https://github.com/FixTweet/FxTwitter) - Fix broken Twitter/X embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others
+- [FxEmbed/FxEmbed](https://github.com/FxEmbed/FxEmbed) - Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others
 - [Vencord/Vesktop](https://github.com/Vencord/Vesktop) - Vesktop is a custom Discord App aiming to give you better performance and improve linux support
 - [momu54/Scandium](https://github.com/momu54/Scandium) - A Discord bot.
 - [PreMiD/PreMiD](https://github.com/PreMiD/PreMiD) - 🧬 Source code of the PreMiD application.
