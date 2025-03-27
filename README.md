@@ -84,7 +84,7 @@
 
 ## CSS 
 
-- [refact0r/midnight-discord](https://github.com/refact0r/midnight-discord) - A dark, rounded discord theme.
+- [refact0r/midnight-discord](https://github.com/refact0r/midnight-discord) - a dark, customizable discord theme.
 - [warrayquipsome/Chillax](https://github.com/warrayquipsome/Chillax) - A theme created by wq, who was an author of Novaturient. It's theme design is mainly modern, clean, simple and creative. To be honest, he wasn't thinking of making this theme so famous, he was just cr
 - [LuckFire/amoled-cord](https://github.com/LuckFire/amoled-cord) - A basically pitch black theme for Discord. Lights out, baby!
 - [Comfy-Themes/Discord](https://github.com/Comfy-Themes/Discord) - Stay comfy while talking to your friends
