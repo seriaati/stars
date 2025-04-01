@@ -45,6 +45,7 @@
 
 ## C 
 
+- [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [henrypp/memreduct](https://github.com/henrypp/memreduct) - Lightweight real-time memory management application to monitor and clean system memory on your computer.
 
