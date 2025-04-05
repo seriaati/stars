@@ -90,6 +90,7 @@
 - [LuckFire/amoled-cord](https://github.com/LuckFire/amoled-cord) - A basically pitch black theme for Discord. Lights out, baby!
 - [Comfy-Themes/Discord](https://github.com/Comfy-Themes/Discord) - Stay comfy while talking to your friends
 - [zuzumi-f/Discord-11](https://github.com/zuzumi-f/Discord-11) - Theme based in windows 11 new UI | Support server: https://discord.gg/PsNtzGeHuW
+- [EnkaNetwork/API-docs](https://github.com/EnkaNetwork/API-docs) - API documentation for the Enka.Network API responses and structure.
 - [Lavender-Discord/Lavender](https://github.com/Lavender-Discord/Lavender) - A highly customizeable and good looking discord theme.
 - [GoneTone/genshin-impact-wish-gacha-analyzer](https://github.com/GoneTone/genshin-impact-wish-gacha-analyzer) - 原神祈願卡池分析 Genshin Impact Wish Gacha Analyzer | A utility for analyzing gacha history, where all data and numbers are well-organized in a convenient manner!
 - [CapnKitten/Translucence](https://github.com/CapnKitten/Translucence) - A translucent/frosted glass theme for Discord
@@ -127,7 +128,6 @@
 
 - [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book
 - [munificent/game-programming-patterns](https://github.com/munificent/game-programming-patterns) - Source repo for the book
-- [EnkaNetwork/API-docs](https://github.com/EnkaNetwork/API-docs) - API documentation for the Enka.Network API responses and structure.
 
 ## Java 
 
@@ -194,6 +194,7 @@
 
 ## Others 
 
+- [Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project) - 基于思源黑体，并以中国大陆字形为标准的对中日韩越统一表意文字扩展区进行字形补充的项目。
 - [ButTaiwan/genryu-font](https://github.com/ButTaiwan/genryu-font) - A free font family derived from Source Han Serif.
 - [ButTaiwan/genyog-font](https://github.com/ButTaiwan/genyog-font) - A free font family derived from Source Han Sans.
 - [ichitenfont/I.Ming](https://github.com/ichitenfont/I.Ming) - I.Ming ( I.明體 / 一点明朝体 / 一點明體 )
@@ -225,7 +226,6 @@
 - [overflow65537/MAA_SnowBreak](https://github.com/overflow65537/MAA_SnowBreak) - 尘白禁区每日任务自动化 | Assistant For Snowbreak: Containment Zone
 - [InterStella0/stemoji](https://github.com/InterStella0/stemoji) - A discord bot that utilizes the discord application emoji feature as your custom emoji use!
 - [vietnh1009/ASCII-generator](https://github.com/vietnh1009/ASCII-generator) - ASCII generator (image to text, image to image, video to video)
-- [Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project) - 基于思源黑体，并以中国大陆字形为标准的对中日韩越统一表意文字扩展区进行字形补充的项目。
 - [ButTaiwan/iansui](https://github.com/ButTaiwan/iansui) - 芫荽，基於 Klee One 改造的學習用台灣繁體字型
 - [seriaati/lumina](https://github.com/seriaati/lumina) - Your life organizer on Discord.
 - [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Discord bot that fixes social media embeds
