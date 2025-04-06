@@ -246,7 +246,7 @@
 - [yuka-friends/Windrecorder](https://github.com/yuka-friends/Windrecorder) - Windrecorder is a memory search app by records everything on your screen in small size, to let you rewind what you have seen, query through OCR text or image description, and get activity statistics.
 - [Wuthery/kuro.py](https://github.com/Wuthery/kuro.py) - Async API wrapper for KuroBBS written in Python
 - [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.13. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
-- [amalshaji/portr](https://github.com/amalshaji/portr) - Open source ngrok alternative designed for teams. Tunnel http, tcp or websocket connections.
+- [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
 - [TheFunny/ArisuAutoSweeper](https://github.com/TheFunny/ArisuAutoSweeper) - 蔚蓝档案脚本 | Blue Archive Auto Script | WIP
 - [sanmusen214/BAAH](https://github.com/sanmusen214/BAAH) - A script that can automatically finish daily tasks in Blue Archive (global/Japan/CN/CN bilibili server). 碧蓝档案国际服/日服/蔚蓝档案国服/B服每日任务脚本
 - [TNXG/ProcessReporterWinpy](https://github.com/TNXG/ProcessReporterWinpy) - 
