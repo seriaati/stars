@@ -140,7 +140,7 @@
 
 ## JavaScript 
 
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - A calmer internet, without any gimmicks.
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode) - Acode - powerful text/code editor for android
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
