@@ -36,6 +36,7 @@
 - [data-structures](#data-structures)
 - [database](#database)
 - [design](#design)
+- [development](#development)
 - [discord](#discord)
 - [django](#django)
 - [docker](#docker)
@@ -299,6 +300,10 @@
 ## design 
 
 - [CapnKitten/Material-Discord](https://github.com/CapnKitten/Material-Discord) - Material design theme for Discord
+
+## development 
+
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
 ## discord 
 
