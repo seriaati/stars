@@ -346,7 +346,7 @@
 
 ## django 
 
-- [weifish0/SightPath](https://github.com/weifish0/SightPath) - 專為高中生設計的生涯探索平台
+- [SightPath/SightPath](https://github.com/SightPath/SightPath) - 專為高中生設計的生涯探索平台
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 
@@ -657,7 +657,7 @@
 
 ## others 
 
-- [MaaXYZ/M9A](https://github.com/MaaXYZ/M9A) - 重返未来：1999 小助手
+- [MAA1999/M9A](https://github.com/MAA1999/M9A) - 重返未来：1999 小助手
 - [overflow65537/MAA_SnowBreak](https://github.com/overflow65537/MAA_SnowBreak) - 尘白禁区每日任务自动化 | Assistant For Snowbreak: Containment Zone
 - [ButTaiwan/iansui](https://github.com/ButTaiwan/iansui) - 芫荽，基於 Klee One 改造的學習用台灣繁體字型
 - [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
@@ -839,7 +839,7 @@
 - [jendrikseipp/vulture](https://github.com/jendrikseipp/vulture) - Find dead Python code
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
-- [weifish0/SightPath](https://github.com/weifish0/SightPath) - 專為高中生設計的生涯探索平台
+- [SightPath/SightPath](https://github.com/SightPath/SightPath) - 專為高中生設計的生涯探索平台
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.13. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
