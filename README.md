@@ -79,6 +79,7 @@
 
 ## C++ 
 
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [univrsal/input-overlay](https://github.com/univrsal/input-overlay) - Show keyboard, gamepad and mouse input on stream
 - [xiaonian233/genshin-fps-unlock](https://github.com/xiaonian233/genshin-fps-unlock) - Genshin Impact Fps Unlock 原神帧率解锁
 - [mltframework/shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor
