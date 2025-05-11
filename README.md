@@ -80,6 +80,7 @@
 ## C++ 
 
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [univrsal/input-overlay](https://github.com/univrsal/input-overlay) - Show keyboard, gamepad and mouse input on stream
 - [xiaonian233/genshin-fps-unlock](https://github.com/xiaonian233/genshin-fps-unlock) - Genshin Impact Fps Unlock 原神帧率解锁
 - [mltframework/shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor
@@ -143,7 +144,6 @@
 
 ## JavaScript 
 
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [SightPath/SightPath](https://github.com/SightPath/SightPath) - 專為高中生設計的生涯探索平台
 - [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode) - Acode - powerful text/code editor for android
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
