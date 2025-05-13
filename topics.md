@@ -123,6 +123,7 @@
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
+- [ui](#ui)
 - [unity](#unity)
 - [vue](#vue)
 - [vuejs](#vuejs)
@@ -1032,6 +1033,10 @@
 ## ubuntu 
 
 - [ImNimboss/dshell](https://github.com/ImNimboss/dshell) - DShell, a tool that combines with discord.py and Jishaku to present to you, shell channels.
+
+## ui 
+
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 
 ## unity 
 
