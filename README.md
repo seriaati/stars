@@ -343,6 +343,7 @@
 
 ## Rust 
 
+- [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and IDE for Python
 - [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time.
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [IceDynamix/reliquary-archiver](https://github.com/IceDynamix/reliquary-archiver) - tool to create a relic export from network packets of a certain turn-based anime game
