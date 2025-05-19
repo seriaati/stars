@@ -25,6 +25,7 @@
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
 - [code](#code)
+- [code-quality](#code-quality)
 - [compiler](#compiler)
 - [computer-science](#computer-science)
 - [computer-vision](#computer-vision)
@@ -68,6 +69,7 @@
 - [java](#java)
 - [javascript](#javascript)
 - [json](#json)
+- [language](#language)
 - [linux](#linux)
 - [llm](#llm)
 - [mac](#mac)
@@ -253,6 +255,10 @@
 ## code 
 
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
+
+## code-quality 
+
+- [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and IDE for Python
 
 ## compiler 
 
@@ -554,6 +560,10 @@
 - [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [theBowja/genshin-db](https://github.com/theBowja/genshin-db) - npm package with searching functions for Genshin Impact data of all in-game languages. Data parsed/organized directly from GenshinData repo.
 
+## language 
+
+- [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and IDE for Python
+
 ## linux 
 
 - [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding 
@@ -851,6 +861,7 @@
 
 ## python 
 
+- [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and IDE for Python
 - [pyper-dev/pyper](https://github.com/pyper-dev/pyper) - Concurrent Python made simple
 - [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
 - [InterStella0/stemoji](https://github.com/InterStella0/stemoji) - A discord bot that utilizes the discord application emoji feature as your custom emoji use!
@@ -952,6 +963,7 @@
 
 ## rust 
 
+- [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and IDE for Python
 - [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding 
 - [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time.
 - [Alex-Beng/Yap](https://github.com/Alex-Beng/Yap) - 超快的原神自动拾取 | Ultra-fast Genshin Impact Auto Pickup
