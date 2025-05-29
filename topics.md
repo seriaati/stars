@@ -788,7 +788,6 @@
 - [Avenshy/majsoul_mod_plus](https://github.com/Avenshy/majsoul_mod_plus) - 雀魂解锁全角色、皮肤、装扮等，支持全部服务器。
 - [zerebos/Nox](https://github.com/zerebos/Nox) - A beautiful dark material theme for Discord
 - [YuehaiTeam/zhiqiong](https://github.com/YuehaiTeam/zhiqiong) - 【重构中】志琼：米游社悬浮跟踪地图。Show realtime in game location in the Teyvat Interactive Map, in browser and mobile phones!
-- [EnkaNetwork/API-docs](https://github.com/EnkaNetwork/API-docs) - API documentation for the Enka.Network API responses and structure.
 - [Frontrooms/3.0-GC](https://github.com/Frontrooms/3.0-GC) - 
 - [thesadru/genshin.py](https://github.com/thesadru/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic.
 - [Getsumi3/gfn-antiafk](https://github.com/Getsumi3/gfn-antiafk) - A script that will stop Geforce Now from kicking you after 5-7 minutes of AFK.
