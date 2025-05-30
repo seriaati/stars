@@ -199,6 +199,7 @@
 
 ## Others 
 
+- [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - SYSTEM PROMPT TRANSPARENCY FOR ALL - CHATGPT, GEMINI, GROK, CLAUDE, PERPLEXITY, CURSOR, WINDSURF, DEVIN, REPLIT, AND MORE!
 - [adobe-fonts/source-han-mono](https://github.com/adobe-fonts/source-han-mono) - Source Han Mono | 思源等宽 | 思源等寬 | 思源等寬 香港 | 源ノ等幅 | 본모노
 - [lxgw/yozai-font](https://github.com/lxgw/yozai-font) - A Chinese handwriting font derived from YozFont. 一款衍生于 YozFont 的中文手写字型。
 - [ButTaiwan/genryu-font](https://github.com/ButTaiwan/genryu-font) - A free font family derived from Source Han Serif.
