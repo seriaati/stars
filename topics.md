@@ -179,7 +179,7 @@
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [DEViantUA/EnkaCard](https://github.com/DEViantUA/EnkaCard) - Python module for generating Enka.Network cards
 - [y1ndan/genshinhelper2](https://github.com/y1ndan/genshinhelper2) - A Python library for miHoYo bbs and HoYoLAB Community. genshin 原神签到小助手 树脂提醒 微博超话 米游社米游币 崩坏3
-- [thesadru/genshinstats](https://github.com/thesadru/genshinstats) - PLEASE USE GENSHIN.PY A python library that can get the stats of Genshin Impact players using Mihoyo's API. PLEASE USE GENSHIN.PY
+- [ashleney/genshinstats](https://github.com/ashleney/genshinstats) - PLEASE USE GENSHIN.PY A python library that can get the stats of Genshin Impact players using Mihoyo's API. PLEASE USE GENSHIN.PY
 
 ## artificial-intelligence 
 
@@ -797,7 +797,7 @@
 - [zerebos/Nox](https://github.com/zerebos/Nox) - A beautiful dark material theme for Discord
 - [YuehaiTeam/zhiqiong](https://github.com/YuehaiTeam/zhiqiong) - 【重构中】志琼：米游社悬浮跟踪地图。Show realtime in game location in the Teyvat Interactive Map, in browser and mobile phones!
 - [Frontrooms/3.0-GC](https://github.com/Frontrooms/3.0-GC) - 
-- [thesadru/genshin.py](https://github.com/thesadru/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic.
+- [ashleney/genshin.py](https://github.com/ashleney/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic.
 - [Getsumi3/gfn-antiafk](https://github.com/Getsumi3/gfn-antiafk) - A script that will stop Geforce Now from kicking you after 5-7 minutes of AFK.
 - [BlameTwo/GL](https://github.com/BlameTwo/GL) - 一个原神启动器，采用WPF-UI和WindowsAppSDK构建
 - [HolographicHat/Yae](https://github.com/HolographicHat/Yae) - 更快、更准的原神数据导出工具
