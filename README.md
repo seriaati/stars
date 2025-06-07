@@ -378,6 +378,7 @@
 
 ## Svelte 
 
+- [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [cpinitiative/ide](https://github.com/cpinitiative/ide) - A realtime collaborative IDE with code execution, intellisense, mobile support, and built-in USACO submissions.
 
