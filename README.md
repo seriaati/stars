@@ -266,7 +266,6 @@
 - [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.13. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
 - [TheFunny/ArisuAutoSweeper](https://github.com/TheFunny/ArisuAutoSweeper) - 蔚蓝档案脚本 | Blue Archive Auto Script | WIP
-- [sanmusen214/BAAH](https://github.com/sanmusen214/BAAH) - A script that can automatically finish daily tasks in Blue Archive (global/Japan/CN/CN bilibili server). 碧蓝档案国际服/日服/蔚蓝档案国服/B服每日任务脚本
 - [TNXG/ProcessReporterWinpy](https://github.com/TNXG/ProcessReporterWinpy) - 
 - [anna-money/asyncpg-listen](https://github.com/anna-money/asyncpg-listen) - A thing to simplify listening for PG notifications with asyncpg
 - [hattvr/enka-card](https://github.com/hattvr/enka-card) - A python-based card generation script that allows users to generate Enka.Network cards with ease.
@@ -331,7 +330,7 @@
 - [initialcommit-com/git-story](https://github.com/initialcommit-com/git-story) - Easily create video animations (.mp4) of your Git commit history, directory from your Git repo.
 - [ayaasaku/kanade_bot](https://github.com/ayaasaku/kanade_bot) - 
 - [mrwan2546/EnkaNetwork.py](https://github.com/mrwan2546/EnkaNetwork.py) - Library for fetching JSON data from site https://enka.network/ with Python
-- [ashleney/genshin.py](https://github.com/ashleney/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic.
+- [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic.
 - [seriaati/shenhe_bot](https://github.com/seriaati/shenhe_bot) - Elevate your Hoyoverse experience. 讓你的 Hoyoverse 體驗更上一層樓。
 - [Kenny2github/discord-ext-slash](https://github.com/Kenny2github/discord-ext-slash) - UNMAINTAINED, use discord.py - Support slash commands with an extension to Rapptz/discord.py
 - [KT-Yeh/Genshin-Discord-Bot](https://github.com/KT-Yeh/Genshin-Discord-Bot) - 原神小幫手：一個多功能的 原神 & 星穹鐵道 Discord Bot 機器人，包含：即時便箋、Hoyolab 每日自動簽到、角色展示櫃、深境螺旋紀錄、旅行者札記...等等
