@@ -227,7 +227,7 @@
 
 ## c 
 
-- [vladelaina/Catime](https://github.com/vladelaina/Catime) - A very useful timer (Pomodoro Clock).[一款非常好用的计时器(🍅番茄时钟)]
+- [vladelaina/Catime](https://github.com/vladelaina/Catime) - A very useful timer (🍅Pomodoro Clock)
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 
 ## c-plus-plus 
