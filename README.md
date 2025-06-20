@@ -50,7 +50,7 @@
 
 ## C 
 
-- [vladelaina/Catime](https://github.com/vladelaina/Catime) - A very useful timer (Pomodoro Clock).[一款非常好用的计时器(🍅番茄时钟)]
+- [vladelaina/Catime](https://github.com/vladelaina/Catime) - A very useful timer (🍅Pomodoro Clock)
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [henrypp/memreduct](https://github.com/henrypp/memreduct) - Lightweight real-time memory management application to monitor and clean system memory on your computer.
@@ -88,6 +88,7 @@
 - [ripose-jp/Memento](https://github.com/ripose-jp/Memento) - An mpv-based video player for studying Japanese
 - [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding 
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [univrsal/input-overlay](https://github.com/univrsal/input-overlay) - Show keyboard, gamepad and mouse input on stream
 - [xiaonian233/genshin-fps-unlock](https://github.com/xiaonian233/genshin-fps-unlock) - Genshin Impact Fps Unlock 原神帧率解锁
 - [mltframework/shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor
