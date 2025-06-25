@@ -220,6 +220,7 @@
 
 ## bot 
 
+- [hikari-py/hikari](https://github.com/hikari-py/hikari) - A Discord API wrapper for Python and asyncio built on good intentions.
 - [InterStella0/stemoji](https://github.com/InterStella0/stemoji) - A discord bot that utilizes the discord application emoji feature as your custom emoji use!
 - [DoctorReid/StarRailOneDragon](https://github.com/DoctorReid/StarRailOneDragon) - 崩坏：星穹铁道 - 一条龙 Honkai Star Rail - One Dragon | 全日常自动 |
 - [line/line-bot-sdk-python](https://github.com/line/line-bot-sdk-python) - LINE Messaging API SDK for Python
@@ -342,6 +343,7 @@
 
 ## discord 
 
+- [hikari-py/hikari](https://github.com/hikari-py/hikari) - A Discord API wrapper for Python and asyncio built on good intentions.
 - [revenge-mod/revenge-bundle](https://github.com/revenge-mod/revenge-bundle) - 👊 Discord, your way. Revenge is a client modification for Discord mobile.
 - [InterStella0/stemoji](https://github.com/InterStella0/stemoji) - A discord bot that utilizes the discord application emoji feature as your custom emoji use!
 - [bunny-mod/Bunny](https://github.com/bunny-mod/Bunny) - A Discord mobile app client modification.
@@ -442,7 +444,7 @@
 ## font 
 
 - [TrionesType/zhuque](https://github.com/TrionesType/zhuque) - 朱雀仿宋/朱雀宋朝/Zhuque Fangsong: An open-source Fangsong typeface project
-- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
+- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 - [adobe-fonts/source-han-mono](https://github.com/adobe-fonts/source-han-mono) - Source Han Mono | 思源等宽 | 思源等寬 | 思源等寬 香港 | 源ノ等幅 | 본모노
 - [lxgw/yozai-font](https://github.com/lxgw/yozai-font) - A Chinese handwriting font derived from YozFont. 一款衍生于 YozFont 的中文手写字型。
 - [Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project) - 基于思源黑体，并以中国大陆字形为标准的对中日韩越统一表意文字扩展区进行字形补充的项目。
@@ -520,6 +522,7 @@
 
 ## hacktoberfest 
 
+- [hikari-py/hikari](https://github.com/hikari-py/hikari) - A Discord API wrapper for Python and asyncio built on good intentions.
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
@@ -909,6 +912,7 @@
 
 ## python 
 
+- [hikari-py/hikari](https://github.com/hikari-py/hikari) - A Discord API wrapper for Python and asyncio built on good intentions.
 - [zuruoke/watermark-removal](https://github.com/zuruoke/watermark-removal) - a machine learning image inpainting task that instinctively removes watermarks from image indistinguishable from the ground truth image
 - [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and IDE for Python
 - [pyper-dev/pyper](https://github.com/pyper-dev/pyper) - Concurrent Python made simple
@@ -964,6 +968,7 @@
 
 ## python3 
 
+- [hikari-py/hikari](https://github.com/hikari-py/hikari) - A Discord API wrapper for Python and asyncio built on good intentions.
 - [vietnh1009/ASCII-generator](https://github.com/vietnh1009/ASCII-generator) - ASCII generator (image to text, image to image, video to video)
 - [mherrmann/helium](https://github.com/mherrmann/helium) - Lighter web automation with Python
 - [tortoise/tortoise-orm](https://github.com/tortoise/tortoise-orm) - Familiar asyncio ORM for python, built with relations in mind
