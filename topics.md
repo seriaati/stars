@@ -63,6 +63,7 @@
 - [good-first-issue](#good-first-issue)
 - [google](#google)
 - [gradle](#gradle)
+- [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
 - [html-css-javascript](#html-css-javascript)
 - [http](#http)
@@ -221,7 +222,7 @@
 ## bot 
 
 - [InterStella0/stemoji](https://github.com/InterStella0/stemoji) - A discord bot that utilizes the discord application emoji feature as your custom emoji use!
-- [DoctorReid/StarRailOneDragon](https://github.com/DoctorReid/StarRailOneDragon) - 崩坏：星穹铁道 - 一条龙 Honkai Star Rail - One Dragon | 全日常自动 |
+- [OneDragon-Anything/StarRailOneDragon](https://github.com/OneDragon-Anything/StarRailOneDragon) - 崩坏：星穹铁道 - 一条龙 Honkai Star Rail - One Dragon | 全日常自动 |
 - [line/line-bot-sdk-python](https://github.com/line/line-bot-sdk-python) - LINE Messaging API SDK for Python
 - [Jimboom7/AlphaJong](https://github.com/Jimboom7/AlphaJong) - A Mahjong AI for Mahjong Soul
 - [KT-Yeh/Genshin-Discord-Bot](https://github.com/KT-Yeh/Genshin-Discord-Bot) - 原神小幫手：一個多功能的 原神 & 星穹鐵道 Discord Bot 機器人，包含：即時便箋、Hoyolab 每日自動簽到、角色展示櫃、深境螺旋紀錄、旅行者札記...等等
@@ -516,6 +517,10 @@
 ## gradle 
 
 - [cabaletta/baritone](https://github.com/cabaletta/baritone) - google maps for block game
+
+## hacking 
+
+- [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - AI SYSTEMS TRANSPARENCY FOR ALL! - LEAKED SYSTEM PROMPTS FOR CHATGPT, GEMINI, GROK, CLAUDE, PERPLEXITY, CURSOR, WINDSURF, DEVIN, REPLIT, AND MORE!
 
 ## hacktoberfest 
 
