@@ -238,6 +238,7 @@
 
 ## Python 
 
+- [ZZZSimulator/ZSim](https://github.com/ZZZSimulator/ZSim) - 绝区零模拟仿真程序，可使用定制化手法，计算伤害。
 - [gaogaotiantian/dowhen](https://github.com/gaogaotiantian/dowhen) - An intuitive and low-overhead instrumentation tool for Python
 - [CatharsisFonts/Ysabeau](https://github.com/CatharsisFonts/Ysabeau) - Ysabeau: The essence of Garamond in an open-source sans-serif typeface
 - [zuruoke/watermark-removal](https://github.com/zuruoke/watermark-removal) - a machine learning image inpainting task that instinctively removes watermarks from image indistinguishable from the ground truth image
