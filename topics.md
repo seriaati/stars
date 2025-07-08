@@ -734,6 +734,7 @@
 
 ## others 
 
+- [ZZZSimulator/ZSim](https://github.com/ZZZSimulator/ZSim) - 绝区零模拟仿真程序，可使用定制化手法，计算伤害。
 - [zyronon/typing-word](https://github.com/zyronon/typing-word) - 在网页上背单词
 - [civilblur/mazanoke](https://github.com/civilblur/mazanoke) - A self-hosted local image optimizer that runs in your browser.
 - [gaogaotiantian/dowhen](https://github.com/gaogaotiantian/dowhen) - An intuitive and low-overhead instrumentation tool for Python
