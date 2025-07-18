@@ -207,6 +207,8 @@
 
 ## Others 
 
+- [jonacruz89/SAWARATSUKI.ServiceLogos](https://github.com/jonacruz89/SAWARATSUKI.ServiceLogos) - ロゴを可愛く作ろう できる限りForkはしないでください
+- [SAWARATSUKI/KawaiiLogos](https://github.com/SAWARATSUKI/KawaiiLogos) - 
 - [lxgw/LxgwXiHei](https://github.com/lxgw/LxgwXiHei) - A Chinese sans-serif font derived from IPAex Gothic. 一款衍生于「IPAexゴシック」的中文黑体字型。
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - AI SYSTEMS TRANSPARENCY FOR ALL! - LEAKED SYSTEM PROMPTS FOR CHATGPT, GEMINI, GROK, CLAUDE, PERPLEXITY, CURSOR, WINDSURF, DEVIN, REPLIT, AND MORE!
 - [adobe-fonts/source-han-mono](https://github.com/adobe-fonts/source-han-mono) - Source Han Mono | 思源等宽 | 思源等寬 | 思源等寬 香港 | 源ノ等幅 | 본모노
@@ -241,7 +243,7 @@
 
 - [ZZZSimulator/ZSim](https://github.com/ZZZSimulator/ZSim) - 绝区零模拟仿真程序，可使用定制化手法，计算伤害。
 - [gaogaotiantian/dowhen](https://github.com/gaogaotiantian/dowhen) - An intuitive and low-overhead instrumentation tool for Python
-- [NomenAK/SuperClaude](https://github.com/NomenAK/SuperClaude) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
+- [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
 - [CatharsisFonts/Ysabeau](https://github.com/CatharsisFonts/Ysabeau) - Ysabeau: The essence of Garamond in an open-source sans-serif typeface
 - [zuruoke/watermark-removal](https://github.com/zuruoke/watermark-removal) - a machine learning image inpainting task that instinctively removes watermarks from image indistinguishable from the ground truth image
 - [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/
