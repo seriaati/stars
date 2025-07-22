@@ -195,7 +195,7 @@
 
 - [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding 
 - [apify/crawlee-python](https://github.com/apify/crawlee-python) - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works
-- [pur1fying/blue_archive_auto_script](https://github.com/pur1fying/blue_archive_auto_script) - 支持按轴凹总力战, 无缝制造三解, 用于实现蔚蓝档案自动化的程序
+- [pur1fying/blue_archive_auto_script](https://github.com/pur1fying/blue_archive_auto_script) - 支持按轴凹总力战, 无缝制造三解, 用于实现蔚蓝档案自动化的程序( Steam已适配 )
 
 ## awesome 
 
@@ -726,7 +726,7 @@
 ## opencv 
 
 - [vietnh1009/ASCII-generator](https://github.com/vietnh1009/ASCII-generator) - ASCII generator (image to text, image to image, video to video)
-- [pur1fying/blue_archive_auto_script](https://github.com/pur1fying/blue_archive_auto_script) - 支持按轴凹总力战, 无缝制造三解, 用于实现蔚蓝档案自动化的程序
+- [pur1fying/blue_archive_auto_script](https://github.com/pur1fying/blue_archive_auto_script) - 支持按轴凹总力战, 无缝制造三解, 用于实现蔚蓝档案自动化的程序( Steam已适配 )
 
 ## operating-system 
 
@@ -950,7 +950,7 @@
 - [seriaati/enka-py](https://github.com/seriaati/enka-py) - Async API wrapper for Enka Network written in Python. Supports GI, HSR, and ZZZ
 - [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
 - [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
-- [pur1fying/blue_archive_auto_script](https://github.com/pur1fying/blue_archive_auto_script) - 支持按轴凹总力战, 无缝制造三解, 用于实现蔚蓝档案自动化的程序
+- [pur1fying/blue_archive_auto_script](https://github.com/pur1fying/blue_archive_auto_script) - 支持按轴凹总力战, 无缝制造三解, 用于实现蔚蓝档案自动化的程序( Steam已适配 )
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) - Pydantic model and dataclasses.dataclass generator for easy conversion of JSON, OpenAPI, JSON Schema, and YAML data sources.
 - [seriaati/yatta](https://github.com/seriaati/yatta) - Async API wrapper for Project Yatta (sr.yatta.moe) written in Python
