@@ -34,6 +34,7 @@
 - [css](#css)
 - [dart](#dart)
 - [data](#data)
+- [data-engineering](#data-engineering)
 - [data-structures](#data-structures)
 - [database](#database)
 - [deep-learning](#deep-learning)
@@ -320,6 +321,10 @@
 
 - [pyper-dev/pyper](https://github.com/pyper-dev/pyper) - Concurrent Python made simple
 - [theBowja/genshin-db](https://github.com/theBowja/genshin-db) - npm package with searching functions for Genshin Impact data of all in-game languages. Data parsed/organized directly from GenshinData repo.
+
+## data-engineering 
+
+- [pyper-dev/pyper](https://github.com/pyper-dev/pyper) - Concurrent Python made simple
 
 ## data-structures 
 
