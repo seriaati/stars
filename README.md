@@ -135,7 +135,6 @@
 
 ## HTML 
 
-- [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book
 - [munificent/game-programming-patterns](https://github.com/munificent/game-programming-patterns) - Source repo for the book
 
 ## Java 
@@ -376,6 +375,7 @@
 
 ## SCSS 
 
+- [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book
 - [studiobutter/anime_api](https://github.com/studiobutter/anime_api) - 
 - [zerebos/Nox](https://github.com/zerebos/Nox) - A beautiful dark material theme for Discord
 - [DiscordStyles/HorizontalServerList](https://github.com/DiscordStyles/HorizontalServerList) - Moves the server list from the left to the top of Discord.
