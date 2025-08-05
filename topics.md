@@ -747,6 +747,7 @@
 
 ## others 
 
+- [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | 🌟 Star if you like it!
 - [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
 - [Gelbpunkt/gateway-proxy](https://github.com/Gelbpunkt/gateway-proxy) - Drop-in proxy for Discord gateway connections and sessions allowing for zero downtime deploys
 - [jonacruz89/SAWARATSUKI.ServiceLogos](https://github.com/jonacruz89/SAWARATSUKI.ServiceLogos) - ロゴを可愛く作ろう できる限りForkはしないでください
