@@ -238,7 +238,7 @@
 
 ## Python 
 
-- [ZSim-Dev/ZSim](https://github.com/ZSim-Dev/ZSim) - 绝区零模拟仿真程序，可使用定制化手法，计算伤害。
+- [ZSim-Dev/ZSim](https://github.com/ZSim-Dev/ZSim) - Advanced Automated Battle Simulator for ZZZ 绝区零进阶全自动战斗模拟器
 - [gaogaotiantian/dowhen](https://github.com/gaogaotiantian/dowhen) - An intuitive and low-overhead instrumentation tool for Python
 - [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
 - [CatharsisFonts/Ysabeau](https://github.com/CatharsisFonts/Ysabeau) - Ysabeau: The essence of Garamond in an open-source sans-serif typeface
@@ -396,7 +396,7 @@
 
 ## TypeScript 
 
-- [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | 🌟 Star if you like it!
+- [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
 - [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - 一款提示词优化器，助力于编写高质量的提示词
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
 - [ntegrals/december](https://github.com/ntegrals/december) - A fully local Loveable, Replit, Bolt, v0 alternative that you can run with your own LLM. No monthly subscriptions, private by default.
