@@ -238,7 +238,7 @@
 
 ## Python 
 
-- [4pii4/facebed](https://github.com/4pii4/facebed) - facebook embed provider for messaging apps
+- [facebed/facebed](https://github.com/facebed/facebed) - facebook embed provider for messaging apps
 - [ZSim-Dev/ZSim](https://github.com/ZSim-Dev/ZSim) - Advanced Automated Battle Simulator for ZZZ 绝区零进阶全自动战斗模拟器
 - [gaogaotiantian/dowhen](https://github.com/gaogaotiantian/dowhen) - An intuitive and low-overhead instrumentation tool for Python
 - [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
