@@ -88,7 +88,7 @@
 - [univrsal/input-overlay](https://github.com/univrsal/input-overlay) - Show keyboard, gamepad and mouse input on stream
 - [xiaonian233/genshin-fps-unlock](https://github.com/xiaonian233/genshin-fps-unlock) - Genshin Impact Fps Unlock 原神帧率解锁
 - [mltframework/shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor
-- [A-SunsetMkt-Forks/Akebi-GC](https://github.com/A-SunsetMkt-Forks/Akebi-GC) - (Fork) The great software for some game that exploiting anime girls (and boys).
+- [A-Archives-and-Forks/Akebi-GC](https://github.com/A-Archives-and-Forks/Akebi-GC) - (Fork) The great software for some game that exploiting anime girls (and boys).
 
 ## CSS 
 
@@ -233,7 +233,7 @@
 
 ## PowerShell 
 
-- [ios12checker/Windows-Maintenance-Tool](https://github.com/ios12checker/Windows-Maintenance-Tool) - 
+- [ios12checker/Windows-Maintenance-Tool](https://github.com/ios12checker/Windows-Maintenance-Tool) - A powerful, all-in-one Windows maintenance toolkit built entirely in Batch & PowerShell. Designed for power users, sysadmins, and curious tinkerers – now smarter, safer, and fully offline-compatible.
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 - [meetrevision/playbook](https://github.com/meetrevision/playbook) - A lightweight, stable, and performance-focused customized version of Windows that enhances privacy and compatibility
 
