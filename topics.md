@@ -107,6 +107,7 @@
 - [privacy](#privacy)
 - [productivity](#productivity)
 - [programming](#programming)
+- [programming-language](#programming-language)
 - [project-management](#project-management)
 - [python](#python)
 - [python3](#python3)
@@ -781,7 +782,6 @@
 - [MAA1999/M9A](https://github.com/MAA1999/M9A) - 重返未来：1999 小助手 | Assistant For Reverse: 1999
 - [overflow65537/MAA_SnowBreak](https://github.com/overflow65537/MAA_SnowBreak) - 尘白禁区每日任务自动化 | Assistant For Snowbreak: Containment Zone
 - [ButTaiwan/iansui](https://github.com/ButTaiwan/iansui) - 芫荽，基於 Klee One 改造的學習用台灣繁體字型
-- [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
 - [takushun-wu/WenJinMincho](https://github.com/takushun-wu/WenJinMincho) - 可免费商用的大字符集宋体字库，以OFL协议发布。/A large character set fonts in Songti(Mincho) style. Licensed under the SIL OFL 1.1.
 - [rdtoy/MIUIPerfSaver](https://github.com/rdtoy/MIUIPerfSaver) - Remove MIUI's performance limit, run app at maximum FPS
 - [nin0-dev/VendroidEnhanced](https://github.com/nin0-dev/VendroidEnhanced) - VendroidEnhanced is a fork of Vendroid, a custom client for Discord that loads the mobile website and injects Vencord, the cutest client mod.
@@ -943,6 +943,10 @@
 ## programming 
 
 - [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.13. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
+
+## programming-language 
+
+- [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
 
 ## project-management 
 
