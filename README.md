@@ -93,6 +93,7 @@
 ## CSS 
 
 - [civilblur/mazanoke](https://github.com/civilblur/mazanoke) - A self-hosted local image optimizer that runs in your browser.
+- [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book
 - [refact0r/midnight-discord](https://github.com/refact0r/midnight-discord) - a dark, customizable discord theme.
 - [warrayquipsome/Chillax](https://github.com/warrayquipsome/Chillax) - A theme created by wq, who was an author of Novaturient. It's theme design is mainly modern, clean, simple and creative. To be honest, he wasn't thinking of making this theme so famous, he was just cr
 - [LuckFire/amoled-cord](https://github.com/LuckFire/amoled-cord) - A basically pitch black theme for Discord. Lights out, baby!
@@ -136,7 +137,6 @@
 
 ## HTML 
 
-- [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book
 - [munificent/game-programming-patterns](https://github.com/munificent/game-programming-patterns) - Source repo for the book
 
 ## Java 
@@ -242,7 +242,6 @@
 
 - [sabuhish/fastapi-mail](https://github.com/sabuhish/fastapi-mail) - Fastapi mail system sending mails(individual, bulk) attachments(individual, bulk)
 - [facebed/facebed](https://github.com/facebed/facebed) - facebook embed provider for messaging apps
-- [ZSim-Dev/ZSim](https://github.com/ZSim-Dev/ZSim) - Advanced Automated Battle Simulator for ZZZ 绝区零进阶全自动战斗模拟器
 - [gaogaotiantian/dowhen](https://github.com/gaogaotiantian/dowhen) - An intuitive and low-overhead instrumentation tool for Python
 - [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
 - [CatharsisFonts/Ysabeau](https://github.com/CatharsisFonts/Ysabeau) - Ysabeau: The essence of Garamond in an open-source sans-serif typeface
