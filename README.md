@@ -122,6 +122,8 @@
 
 ## Go 
 
+- [sinclairtarget/git-who](https://github.com/sinclairtarget/git-who) - Git blame for file trees
+- [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code) - Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告
 - [trinhminhtriet/markgen](https://github.com/trinhminhtriet/markgen) - 📜 Generate personalized markdown files with templates, GitHub, RSS, and API integrations using Go.
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
@@ -194,6 +196,7 @@
 
 ## Kotlin 
 
+- [adrcotfas/goodtime](https://github.com/adrcotfas/goodtime) - A productivity app that combines pomodoro timers and flow techniques to boost focus and efficiency.
 - [rdtoy/MIUIPerfSaver](https://github.com/rdtoy/MIUIPerfSaver) - Remove MIUI's performance limit, run app at maximum FPS
 - [nin0-dev/VendroidEnhanced](https://github.com/nin0-dev/VendroidEnhanced) - VendroidEnhanced is a fork of Vendroid, a custom client for Discord that loads the mobile website and injects Vencord, the cutest client mod.
 - [VREMSoftwareDevelopment/WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) - Android application to analyze Wi-Fi signals.
@@ -205,6 +208,7 @@
 
 ## Others 
 
+- [ButTaiwan/genyo-font](https://github.com/ButTaiwan/genyo-font) - Free font derived from Source Han Serif
 - [jonacruz89/SAWARATSUKI.ServiceLogos](https://github.com/jonacruz89/SAWARATSUKI.ServiceLogos) - ロゴを可愛く作ろう できる限りForkはしないでください
 - [SAWARATSUKI/KawaiiLogos](https://github.com/SAWARATSUKI/KawaiiLogos) - 
 - [lxgw/LxgwXiHei](https://github.com/lxgw/LxgwXiHei) - A Chinese sans-serif font derived from IPAex Gothic. 一款衍生于「IPAexゴシック」的中文黑体字型。
@@ -240,6 +244,7 @@
 
 ## Python 
 
+- [autoscrape-labs/pydoll](https://github.com/autoscrape-labs/pydoll) - Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions.
 - [steve07s/Artale-Channel-Broadcast-System](https://github.com/steve07s/Artale-Channel-Broadcast-System) - 
 - [sabuhish/fastapi-mail](https://github.com/sabuhish/fastapi-mail) - Fastapi mail system sending mails(individual, bulk) attachments(individual, bulk)
 - [facebed/facebed](https://github.com/facebed/facebed) - facebook embed provider for messaging apps
