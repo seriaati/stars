@@ -46,7 +46,7 @@
 ## C 
 
 - [pogocache/pogocache](https://github.com/pogocache/pogocache) - Fast caching software with a focus on low latency and cpu efficiency.
-- [vladelaina/Catime](https://github.com/vladelaina/Catime) - 💖A tiny (803KB) but mighty timer in pure C. Supports clock, countdown, stopwatch, Pomodoro, and fully customizable tray animations (GIFs, CPU/Mem%).
+- [vladelaina/Catime](https://github.com/vladelaina/Catime) - A tiny (803KB) but mighty timer in pure C. Supports clock, countdown, stopwatch, Pomodoro, and fully customizable tray animations (GIFs, CPU/Mem%).
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [henrypp/memreduct](https://github.com/henrypp/memreduct) - Lightweight real-time memory management application to monitor and clean system memory on your computer.
@@ -155,6 +155,7 @@
 
 ## JavaScript 
 
+- [kelvin6365/plane-discord-bot](https://github.com/kelvin6365/plane-discord-bot) - 
 - [pickle-com/glass](https://github.com/pickle-com/glass) - Digital Mind Extension
 - [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray
 - [SightPath/SightPath](https://github.com/SightPath/SightPath) - 專為高中生設計的生涯探索平台
