@@ -907,7 +907,7 @@
 - [HolographicHat/Yae](https://github.com/HolographicHat/Yae) - 更快、更准的原神数据导出工具
 - [TAG-Epic/slashify](https://github.com/TAG-Epic/slashify) - Convert discord.py commands to slash commands!
 - [GoneTone/genshin-impact-wish-gacha-analyzer](https://github.com/GoneTone/genshin-impact-wish-gacha-analyzer) - 原神祈願卡池分析 Genshin Impact Wish Gacha Analyzer | A utility for analyzing gacha history, where all data and numbers are well-organized in a convenient manner!
-- [Nigh/Genshin-fishing](https://github.com/Nigh/Genshin-fishing) - Genshin auto fishing
+- [Nigh/Genshin-fishing](https://github.com/Nigh/Genshin-fishing) - Auto fishing in Genshin Impact
 - [zyr17/MajsoulPaipuAnalyzer](https://github.com/zyr17/MajsoulPaipuAnalyzer) - 雀魂牌谱分析工具
 - [daydreaming666/Amenoma](https://github.com/daydreaming666/Amenoma) - A simple desktop application to scan and export Genshin Impact Artifacts and Materials.
 - [luern0313/WindSong-Lyre-Genshin-Impact](https://github.com/luern0313/WindSong-Lyre-Genshin-Impact) - 【原神】自动演奏风物之诗琴的程序
