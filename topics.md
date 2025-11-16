@@ -787,6 +787,7 @@
 
 ## others 
 
+- [LumiFae/enka.cards](https://github.com/LumiFae/enka.cards) - 
 - [kelvin6365/plane-discord-bot](https://github.com/kelvin6365/plane-discord-bot) - 
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf
 - [pogocache/pogocache](https://github.com/pogocache/pogocache) - Fast caching software with a focus on low latency and cpu efficiency.
