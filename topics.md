@@ -72,6 +72,7 @@
 - [good-first-issue](#good-first-issue)
 - [google](#google)
 - [gradle](#gradle)
+- [gui](#gui)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
 - [html-css-javascript](#html-css-javascript)
@@ -587,6 +588,13 @@
 ## gradle 
 
 - [cabaletta/baritone](https://github.com/cabaletta/baritone) - google maps for block game
+
+## gui 
+
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
+- [ZenPrivacy/zen-desktop](https://github.com/ZenPrivacy/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux
+- [pur1fying/blue_archive_auto_script](https://github.com/pur1fying/blue_archive_auto_script) - 支持按轴凹总力战, 无缝制造三解, 用于实现蔚蓝档案自动化的程序( Steam已适配 )
 
 ## hacking 
 
