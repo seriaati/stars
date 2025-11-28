@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [agent](#agent)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
 - [algorithm](#algorithm)
@@ -154,6 +155,10 @@
 - [windows](#windows)
 - [youtube](#youtube)
 - [zsh](#zsh)
+
+## agent 
+
+- [ntegrals/december](https://github.com/ntegrals/december) - A fully local Loveable, Replit, Bolt, v0 alternative that you can run with your own LLM. No monthly subscriptions, private by default.
 
 ## ai 
 
