@@ -828,6 +828,7 @@
 
 ## others 
 
+- [curiousgeorgios/linear-gratis](https://github.com/curiousgeorgios/linear-gratis) - A 100% free forever platform to extend the customer facing capabilities of linear.app
 - [ok-oldking/ok-script](https://github.com/ok-oldking/ok-script) - 全新Python游戏自动化框架(支持Windows和模拟器)
 - [LumiFae/enka.cards](https://github.com/LumiFae/enka.cards) - 
 - [kelvin6365/plane-discord-bot](https://github.com/kelvin6365/plane-discord-bot) - 
