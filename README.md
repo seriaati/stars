@@ -239,7 +239,7 @@
 
 ## PHP 
 
-- [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-Source Personal Subscription Tracker
+- [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money.
 - [injahow/bilibili-parse](https://github.com/injahow/bilibili-parse) - bilibili Video API
 
 ## PowerShell 
