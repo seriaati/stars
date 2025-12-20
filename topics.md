@@ -58,6 +58,7 @@
 - [electron](#electron)
 - [emoji](#emoji)
 - [ethereum](#ethereum)
+- [finance](#finance)
 - [firefox](#firefox)
 - [flutter](#flutter)
 - [flutter-apps](#flutter-apps)
@@ -93,6 +94,7 @@
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [markdown](#markdown)
+- [microservices](#microservices)
 - [minecraft](#minecraft)
 - [mongodb](#mongodb)
 - [monitoring](#monitoring)
@@ -466,6 +468,7 @@
 
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
+- [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money.
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [donknap/dpanel](https://github.com/donknap/dpanel) - 轻量化 docker 可视化管理面板。lightweight  panel for docker
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
@@ -500,6 +503,10 @@
 ## ethereum 
 
 - [WTFAcademy/WTF-zk](https://github.com/WTFAcademy/WTF-zk) - 零知识证明入门教程。Comprehensive Zero-Knowledge Proofs Tutorial. #zk #WIP
+
+## finance 
+
+- [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money.
 
 ## firefox 
 
@@ -754,6 +761,10 @@
 - [munificent/game-programming-patterns](https://github.com/munificent/game-programming-patterns) - Source repo for the book
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 
+## microservices 
+
+- [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
+
 ## minecraft 
 
 - [PojavLauncherTeam/PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) - A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-Android
@@ -873,7 +884,6 @@
 - [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP) - MCP Server for Ghidra
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
-- [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-Source Personal Subscription Tracker
 - [MAA1999/M9A](https://github.com/MAA1999/M9A) - 重返未来：1999 小助手 | Assistant For Reverse: 1999
 - [overflow65537/MAA_SnowBreak](https://github.com/overflow65537/MAA_SnowBreak) - 尘白禁区每日任务自动化 | Assistant For Snowbreak: Containment Zone
 - [ButTaiwan/iansui](https://github.com/ButTaiwan/iansui) - 芫荽，基於 Klee One 改造的學習用台灣繁體字型
@@ -917,7 +927,6 @@
 - [Innei/Shiro](https://github.com/Innei/Shiro) - 📜 A minimalist personal website embodying the purity of paper and freshness of snow.
 - [aio-libs/aiocache](https://github.com/aio-libs/aiocache) - Asyncio cache manager for redis, memcached and memory
 - [jianchang512/clone-voice](https://github.com/jianchang512/clone-voice) - A sound cloning tool with a web interface, using your voice or any sound to record audio / 一个带web界面的声音克隆工具，使用你的音色或任意声音来录制音频
-- [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 - [seriaati/enka-to-go](https://github.com/seriaati/enka-to-go) - Export your Enka showcase to Genshin Optimizer for damage calculation.
 - [IgorMundstein/WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner) - This free RAM cleaner uses native Windows features to optimize memory areas. It's a compact, portable, and smart application.
 - [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers
@@ -1003,6 +1012,7 @@
 
 ## php 
 
+- [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money.
 - [injahow/bilibili-parse](https://github.com/injahow/bilibili-parse) - bilibili Video API
 - [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
 
@@ -1188,6 +1198,7 @@
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
+- [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money.
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
