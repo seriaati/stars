@@ -58,6 +58,7 @@
 - [electron](#electron)
 - [emoji](#emoji)
 - [ethereum](#ethereum)
+- [fastapi](#fastapi)
 - [finance](#finance)
 - [firefox](#firefox)
 - [flutter](#flutter)
@@ -515,6 +516,14 @@
 
 - [WTFAcademy/WTF-zk](https://github.com/WTFAcademy/WTF-zk) - 零知识证明入门教程。Comprehensive Zero-Knowledge Proofs Tutorial. #zk #WIP
 
+## fastapi 
+
+- [sabuhish/fastapi-mail](https://github.com/sabuhish/fastapi-mail) - Fastapi mail system sending mails(individual, bulk) attachments(individual, bulk)
+- [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) - Python data model generator (Pydantic, dataclasses, TypedDict, msgspec) from OpenAPI, JSON Schema, GraphQL, and raw data (JSON/YAML/CSV).
+- [aminalaee/sqladmin](https://github.com/aminalaee/sqladmin) - SQLAlchemy Admin for FastAPI and Starlette
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
+
 ## finance 
 
 - [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money.
@@ -899,7 +908,6 @@
 - [ButTaiwan/genyo-font](https://github.com/ButTaiwan/genyo-font) - Free font derived from Source Han Serif
 - [ajayyy/DeArrow](https://github.com/ajayyy/DeArrow) - Crowdsourcing better titles and thumbnails on YouTube
 - [steve07s/Artale-Channel-Broadcast-System](https://github.com/steve07s/Artale-Channel-Broadcast-System) - 
-- [sabuhish/fastapi-mail](https://github.com/sabuhish/fastapi-mail) - Fastapi mail system sending mails(individual, bulk) attachments(individual, bulk)
 - [facebed/facebed](https://github.com/facebed/facebed) - facebook embed provider for messaging apps
 - [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
 - [Gelbpunkt/gateway-proxy](https://github.com/Gelbpunkt/gateway-proxy) - Drop-in proxy for Discord gateway connections and sessions allowing for zero downtime deploys
