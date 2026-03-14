@@ -336,7 +336,7 @@
 - [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
 - [line/line-bot-sdk-python](https://github.com/line/line-bot-sdk-python) - LINE Messaging API SDK for Python
 - [Starry-Wind/StarRailAssistant](https://github.com/Starry-Wind/StarRailAssistant) - 崩坏：星穹铁道自动化 | 崩坏：星穹铁道自动锄大地 | 崩坏：星穹铁道锄大地 | 自动锄大地 | 基于模拟按键
-- [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
+- [s0md3v/roop](https://github.com/s0md3v/roop) - 
 - [sonic182/aiosonic](https://github.com/sonic182/aiosonic) - A very fast Python asyncio http and websockets client
 - [KT-Yeh/mihomo](https://github.com/KT-Yeh/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
 - [hysts/anime-face-detector](https://github.com/hysts/anime-face-detector) - Anime Face Detector using mmdet and mmpose
@@ -412,7 +412,7 @@
 
 ## TypeScript 
 
-- [resumx/resumx](https://github.com/resumx/resumx) - Resume renderer for AI-first workflows.
+- [resumx/resumx](https://github.com/resumx/resumx) - Markdown resume renderer with auto page-fitting.
 - [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) - Aesthetic, minimalist platform for learning Japanese inspired by Duolingo and Monkeytype, built with Next.js and sponsored by Vercel. Beginner-friendly with plenty of good first issues - all contribut
 - [mattogodoy/nametag](https://github.com/mattogodoy/nametag) - A simple, yet effective Personal Relationship Manager
 - [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) - ⚡ Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs. Bring your own LLM or use Lingo.dev Localization Engine. Join discord:
