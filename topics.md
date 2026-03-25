@@ -285,7 +285,7 @@
 
 ## c 
 
-- [vladelaina/Catime](https://github.com/vladelaina/Catime) - A tiny (995KB) but mighty timer in pure C. Supports clock, countdown, stopwatch, Pomodoro, and fully customizable tray animations (GIFs, CPU/Mem%)💘
+- [vladelaina/Catime](https://github.com/vladelaina/Catime) - A tiny (995KB) but mighty timer in pure C. Supports clock, countdown, stopwatch, Pomodoro, and fully customizable tray animations (GIFs, CPU/Mem%)💘Don't be shy, join here: https://discord.com/invite/W
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 
 ## c-plus-plus 
