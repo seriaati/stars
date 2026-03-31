@@ -249,6 +249,7 @@
 
 ## Python 
 
+- [seriaati/roler](https://github.com/seriaati/roler) - Discord bot for easy and descriptive role management
 - [ok-oldking/ok-script](https://github.com/ok-oldking/ok-script) - 现代Python游戏自动化框架(支持Windows/模拟器/浏览器)
 - [cloudwithax/pomice](https://github.com/cloudwithax/pomice) - The modern Lavalink wrapper designed for discord.py
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
