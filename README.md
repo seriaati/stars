@@ -132,7 +132,6 @@
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 - [quackduck/devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH!
-- [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
 - [Wikidepia/InstaFix](https://github.com/Wikidepia/InstaFix) - Fix Instagram embeds in Discord (and Telegram!)
 - [ZenPrivacy/zen-desktop](https://github.com/ZenPrivacy/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
@@ -156,7 +155,7 @@
 
 ## JavaScript 
 
-- [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
+- [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [kelvin6365/plane-discord-bot](https://github.com/kelvin6365/plane-discord-bot) - 
 - [pickle-com/glass](https://github.com/pickle-com/glass) - Digital Mind Extension
 - [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray
@@ -444,6 +443,7 @@
 - [mintlify/writer](https://github.com/mintlify/writer) - ✍️ AI powered documentation writer
 - [dreamhunter2333/cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email) - CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
+- [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
 - [bunny-mod/Bunny](https://github.com/bunny-mod/Bunny) - A Discord mobile app client modification.
 - [Britmoji/tiktxk](https://github.com/Britmoji/tiktxk) - tiktxk will rock your s/o/x off — this is war you "hackerman" 🤓
 - [MinnDevelopment/fxreddit](https://github.com/MinnDevelopment/fxreddit) - Provides improved reddit embeds for services such as Discord.
