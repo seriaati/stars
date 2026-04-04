@@ -801,7 +801,7 @@
 
 ## markdown 
 
-- [resumx/resumx](https://github.com/resumx/resumx) - Markdown resume renderer with auto page-fitting.
+- [resumx/resumx](https://github.com/resumx/resumx) - The resume stack for Claude Code.
 - [iGerman00/koutube](https://github.com/iGerman00/koutube) - A serverless web service that allows you to watch YouTube videos directly on Discord without opening a browser. Can also generate embeds for your Markdown! Includes API.
 - [trinhminhtriet/markgen](https://github.com/trinhminhtriet/markgen) - 📜 Generate personalized markdown files with templates, GitHub, RSS, and API integrations using Go.
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
@@ -921,8 +921,6 @@
 - [curiousgeorgios/linear-gratis](https://github.com/curiousgeorgios/linear-gratis) - A 100% free forever platform to extend the customer facing capabilities of linear.app
 - [ok-oldking/ok-script](https://github.com/ok-oldking/ok-script) - 现代Python游戏自动化框架(支持Windows/模拟器/浏览器)
 - [LumiFae/enka.cards](https://github.com/LumiFae/enka.cards) - Generates an image of your specified card from enka.network in a nice embed (also has a image API for other services)
-- [kelvin6365/plane-discord-bot](https://github.com/kelvin6365/plane-discord-bot) - 
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf
 - [tidwall/pogocache](https://github.com/tidwall/pogocache) - Fast caching software with a focus on low latency and cpu efficiency.
 - [sinclairtarget/git-who](https://github.com/sinclairtarget/git-who) - Git blame for file trees
 - [adrcotfas/goodtime](https://github.com/adrcotfas/goodtime) - A productivity app that combines pomodoro timers and flow techniques to boost focus and efficiency.
@@ -1307,7 +1305,7 @@
 
 ## tailwindcss 
 
-- [resumx/resumx](https://github.com/resumx/resumx) - Markdown resume renderer with auto page-fitting.
+- [resumx/resumx](https://github.com/resumx/resumx) - The resume stack for Claude Code.
 - [pickle-com/glass](https://github.com/pickle-com/glass) - Digital Mind Extension
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
