@@ -801,7 +801,7 @@
 
 ## markdown 
 
-- [resumx/resumx](https://github.com/resumx/resumx) - The resume stack for Claude Code.
+- [resumx/resumx](https://github.com/resumx/resumx) - Resume renderer for Claude Code.
 - [iGerman00/koutube](https://github.com/iGerman00/koutube) - A serverless web service that allows you to watch YouTube videos directly on Discord without opening a browser. Can also generate embeds for your Markdown! Includes API.
 - [trinhminhtriet/markgen](https://github.com/trinhminhtriet/markgen) - 📜 Generate personalized markdown files with templates, GitHub, RSS, and API integrations using Go.
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
@@ -1305,7 +1305,7 @@
 
 ## tailwindcss 
 
-- [resumx/resumx](https://github.com/resumx/resumx) - The resume stack for Claude Code.
+- [resumx/resumx](https://github.com/resumx/resumx) - Resume renderer for Claude Code.
 - [pickle-com/glass](https://github.com/pickle-com/glass) - Digital Mind Extension
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
