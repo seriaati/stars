@@ -46,7 +46,7 @@
 ## C 
 
 - [tidwall/pogocache](https://github.com/tidwall/pogocache) - Fast caching software with a focus on low latency and cpu efficiency.
-- [vladelaina/Catime](https://github.com/vladelaina/Catime) - 💌A tiny (995KB) but mighty timer in pure C — almost no memory usage!❤️‍🔥 Supports clock, countdown, stopwatch, Pomodoro, and fully customizable tray animations (GIFs, CPU/Mem%) 💘 Don't be shy, join he
+- [vladelaina/Catime](https://github.com/vladelaina/Catime) - 💌A tiny (995KB) but mighty timer in **pure C** ! — almost no memory usage!❤️‍🔥 Supports clock, countdown, stopwatch, Pomodoro, and fully customizable tray animations (GIFs, CPU/Mem%) 💘 Don't be shy, j
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [henrypp/memreduct](https://github.com/henrypp/memreduct) - Lightweight real-time memory management application to monitor and clean system memory on your computer.
@@ -250,7 +250,7 @@
 
 ## Python 
 
-- [seriaati/roler](https://github.com/seriaati/roler) - Discord bot for easy and descriptive role management
+- [seriaati/roler](https://github.com/seriaati/roler) - Discord bot for creating advanced and descriptive role panels easily
 - [ok-oldking/ok-script](https://github.com/ok-oldking/ok-script) - 现代Python游戏自动化框架(支持Windows/模拟器/浏览器)
 - [cloudwithax/pomice](https://github.com/cloudwithax/pomice) - The modern Lavalink wrapper designed for discord.py
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
