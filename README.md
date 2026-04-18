@@ -366,7 +366,7 @@
 - [TAG-Epic/slashify](https://github.com/TAG-Epic/slashify) - Convert discord.py commands to slash commands!
 - [thrzl/discord-ext-forms](https://github.com/thrzl/discord-ext-forms) - ❓ a simpler way to make forms, surveys, and reaction input using discord.py.
 - [ashleney/genshinstats](https://github.com/ashleney/genshinstats) - PLEASE USE GENSHIN.PY A python library that can get the stats of Genshin Impact players using Mihoyo's API. PLEASE USE GENSHIN.PY
-- [daydreaming666/Amenoma](https://github.com/daydreaming666/Amenoma) - A simple desktop application to scan and export Genshin Impact Artifacts and Materials.
+- [aestilog/Amenoma](https://github.com/aestilog/Amenoma) - A simple desktop application to scan and export Genshin Impact Artifacts and Materials.
 - [luern0313/WindSong-Lyre-Genshin-Impact](https://github.com/luern0313/WindSong-Lyre-Genshin-Impact) - 【原神】自动演奏风物之诗琴的程序
 - [vivinano/MudaeAutoBot](https://github.com/vivinano/MudaeAutoBot) - python bot that uses strictly the **Discord API** to Roll,Claim,and Kakera Snipe in Mudae. 5/10/21 project converted over to discum library
 - [anywhere2go/auto_player](https://github.com/anywhere2go/auto_player) - 自动挂机脚本，适用阴阳师、碧蓝航线、明日方舟等游戏
@@ -414,6 +414,7 @@
 
 ## TypeScript 
 
+- [seriaati/zeni](https://github.com/seriaati/zeni) - Money tracked without the friction
 - [webadderall/Recordly](https://github.com/webadderall/Recordly) - Create polished screen recordings for free. An open-source alternative to Screen Studio.
 - [resumx/resumx](https://github.com/resumx/resumx) - Resume renderer for Claude Code.
 - [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) - Aesthetic, minimalist platform for learning Japanese inspired by Duolingo and Monkeytype, built with Next.js and sponsored by Vercel. Beginner-friendly with plenty of good first issues - all contribut
