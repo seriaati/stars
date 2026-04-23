@@ -414,7 +414,7 @@
 
 ## TypeScript 
 
-- [seriaati/zeni](https://github.com/seriaati/zeni) - Money tracked without the friction
+- [seriaati/keni](https://github.com/seriaati/keni) - Open source AI personal finance tracker
 - [webadderall/Recordly](https://github.com/webadderall/Recordly) - Create polished screen recordings for free. An open-source alternative to Screen Studio.
 - [resumx/resumx](https://github.com/resumx/resumx) - Resume renderer for Claude Code.
 - [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) - Aesthetic, minimalist platform for learning Japanese inspired by Duolingo and Monkeytype, built with Next.js and sponsored by Vercel. Beginner-friendly with plenty of good first issues - all contribut
