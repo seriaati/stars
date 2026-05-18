@@ -1038,7 +1038,6 @@
 - [Mikubill/pixivpy-async](https://github.com/Mikubill/pixivpy-async) - Pure Python 3 Async Pixiv API
 - [IrisRainbowNeko/pixiv_AI_crawler](https://github.com/IrisRainbowNeko/pixiv_AI_crawler) - 基于深度学习的p站高质量涩图AI爬虫，可以学会你的XP
 - [Starry-Wind/StarRailAssistant](https://github.com/Starry-Wind/StarRailAssistant) - 崩坏：星穹铁道自动化 | 崩坏：星穹铁道自动锄大地 | 崩坏：星穹铁道锄大地 | 自动锄大地 | 基于模拟按键
-- [s0md3v/roop](https://github.com/s0md3v/roop) - 
 - [Vencord/Vesktop](https://github.com/Vencord/Vesktop) - Vesktop is a custom Discord App aiming to give you better performance and improve linux support
 - [momu54/Scandium](https://github.com/momu54/Scandium) - A Discord bot.
 - [ButTaiwan/genwan-font](https://github.com/ButTaiwan/genwan-font) - A free font family derived from Source Han Serif.
