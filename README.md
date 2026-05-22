@@ -101,7 +101,6 @@
 - [Comfy-Themes/Discord](https://github.com/Comfy-Themes/Discord) - Stay comfy while talking to your friends
 - [zuzumi-f/Discord-11](https://github.com/zuzumi-f/Discord-11) - Theme based in windows 11 new UI | Support server: https://discord.gg/PsNtzGeHuW
 - [Lavender-Discord/Lavender](https://github.com/Lavender-Discord/Lavender) - A highly customizeable and good looking discord theme.
-- [GoneTone/genshin-impact-wish-gacha-analyzer](https://github.com/GoneTone/genshin-impact-wish-gacha-analyzer) - 原神祈願卡池分析 Genshin Impact Wish Gacha Analyzer | A utility for analyzing gacha history, where all data and numbers are well-organized in a convenient manner!
 - [CapnKitten/Translucence](https://github.com/CapnKitten/Translucence) - A translucent/frosted glass theme for Discord
 - [discord-modifications/dark-discord](https://github.com/discord-modifications/dark-discord) - An actual dark mode for discord.
 - [KillYoy/DiscordNight](https://github.com/KillYoy/DiscordNight) - An actual Dark/Nightmode Theme for Discord/BetterDiscord
@@ -121,6 +120,7 @@
 - [wanghongenpin/proxypin](https://github.com/wanghongenpin/proxypin) - Open source free capture HTTP(S) traffic  software ProxyPin, supporting full platform systems
 - [namanshergill/diohub](https://github.com/namanshergill/diohub) - An open-source unofficial GitHub mobile client, that aims to deliver the ultimate GitHub experience on mobile devices.
 - [Dev-Salem/notat](https://github.com/Dev-Salem/notat) - a simple note-taking app with a markdown editor, built with Flutter and Firebase
+- [GoneTone/genshin-impact-wish-gacha-analyzer](https://github.com/GoneTone/genshin-impact-wish-gacha-analyzer) - 原神祈願卡池分析 Genshin Impact Wish Gacha Analyzer | A utility for analyzing gacha history, where all data and numbers are well-organized in a convenient manner!
 
 ## Go 
 
