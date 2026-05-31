@@ -380,7 +380,7 @@
 
 ## csharp 
 
-- [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
+- [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A fast, open-source, modern image viewer for 90+ formats – including WEBP, GIF, SVG, AVIF, JXL, HEIC and more – built for smooth browsing across Windows, macOS, and Linux.
 - [Yu-Core/SwashbucklerDiary](https://github.com/Yu-Core/SwashbucklerDiary) - 侠客日记是一个开源、跨平台的本地日记app，使用Blazor开发，支持Android，Windows，macOS，Web，Linux。"SwashbucklerDiary" is an open source cross-platform local diary app using Blazor , support Android，Windows，macOS，Web，Linux.
 - [IridiumIO/CompactGUI](https://github.com/IridiumIO/CompactGUI) - Reduce the space taken up by games and programs on disk by using native Windows APIs
 - [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
@@ -529,7 +529,7 @@
 
 ## dotnet 
 
-- [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
+- [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A fast, open-source, modern image viewer for 90+ formats – including WEBP, GIF, SVG, AVIF, JXL, HEIC and more – built for smooth browsing across Windows, macOS, and Linux.
 - [IridiumIO/CompactGUI](https://github.com/IridiumIO/CompactGUI) - Reduce the space taken up by games and programs on disk by using native Windows APIs
 - [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
 - [Pixeval/Pixeval](https://github.com/Pixeval/Pixeval) - Wow. Yet another Pixiv client!
@@ -537,7 +537,7 @@
 
 ## electron 
 
-- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished screen recordings without editing. Mac/Windows/Linux
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [pickle-com/glass](https://github.com/pickle-com/glass) - Digital Mind Extension
 - [MajsoulPlus/majsoul-plus](https://github.com/MajsoulPlus/majsoul-plus) - 雀魂Plus——雀魂麻将Majsoul专用浏览器，提供了一些专有特性
@@ -783,8 +783,8 @@
 
 ## linux 
 
-- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished screen recordings without editing. Mac/Windows/Linux
-- [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
+- [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A fast, open-source, modern image viewer for 90+ formats – including WEBP, GIF, SVG, AVIF, JXL, HEIC and more – built for smooth browsing across Windows, macOS, and Linux.
 - [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
@@ -818,8 +818,8 @@
 
 ## macos 
 
-- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished screen recordings without editing. Mac/Windows/Linux
-- [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
+- [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A fast, open-source, modern image viewer for 90+ formats – including WEBP, GIF, SVG, AVIF, JXL, HEIC and more – built for smooth browsing across Windows, macOS, and Linux.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
@@ -919,7 +919,7 @@
 
 ## open-source 
 
-- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished screen recordings without editing. Mac/Windows/Linux
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
 - [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) - Aesthetic, minimalist platform for learning Japanese inspired by Duolingo and Monkeytype, built with Next.js and sponsored by Vercel. Beginner-friendly with plenty of good first issues - all contribut
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [pickle-com/glass](https://github.com/pickle-com/glass) - Digital Mind Extension
@@ -1444,7 +1444,7 @@
 
 ## windows 
 
-- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished screen recordings without editing. Mac/Windows/Linux
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
 - [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray
 - [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
 - [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
