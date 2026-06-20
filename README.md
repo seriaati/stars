@@ -294,7 +294,7 @@
 - [mesop-dev/mesop](https://github.com/mesop-dev/mesop) - Rapidly build AI apps in Python
 - [yuka-friends/Windrecorder](https://github.com/yuka-friends/Windrecorder) - Windrecorder is a memory search app by records everything on your screen in small size, to let you rewind what you have seen, query through OCR text or image description, and get activity statistics, 
 - [Wuthery/kuro.py](https://github.com/Wuthery/kuro.py) - Async API wrapper for KuroBBS written in Python
-- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.13. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
+- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.14. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
 - [TheFunny/ArisuAutoSweeper](https://github.com/TheFunny/ArisuAutoSweeper) - 蔚蓝档案脚本 | Blue Archive Auto Script | WIP
 - [TNXG/ProcessReporterWinpy](https://github.com/TNXG/ProcessReporterWinpy) - 
 - [anna-money/asyncpg-listen](https://github.com/anna-money/asyncpg-listen) - A thing to simplify listening for PG notifications with asyncpg
