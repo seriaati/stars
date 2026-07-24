@@ -108,6 +108,7 @@
 - [customa/customa-discord](https://github.com/customa/customa-discord) - The most customizable Discord theme out there.
 - [discord-extensions-archived/name-badges](https://github.com/discord-extensions-archived/name-badges) - Some nice custom badges for next to usernames.
 - [NYRI4/Discolored](https://github.com/NYRI4/Discolored) - Colorize Discord's boring SVGs.
+- [DiscordStyles/HorizontalServerList](https://github.com/DiscordStyles/HorizontalServerList) - Moves the server list from the left to the top of Discord.
 - [PlusInsta/discord-plus](https://github.com/PlusInsta/discord-plus) - A sleek, customizable Discord theme.
 - [Asteria5675/BetterDiscordThemes](https://github.com/Asteria5675/BetterDiscordThemes) - 
 - [VaporousCreeper/BetterDiscord-ThemesAndPlugins](https://github.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins) - Where I store All Of My BetterDiscord Uploads
@@ -221,6 +222,7 @@
 - [SAWARATSUKI/KawaiiLogos](https://github.com/SAWARATSUKI/KawaiiLogos) - 
 - [lxgw/LxgwXiHei](https://github.com/lxgw/LxgwXiHei) - A Chinese sans-serif font derived from IPAex Gothic. 一款衍生于「IPAexゴシック」的中文黑体字型。
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
+- [TrionesType/zhuque](https://github.com/TrionesType/zhuque) - 朱雀仿宋/朱雀宋朝/Zhuque Fangsong: An open-source Fangsong typeface project
 - [adobe-fonts/source-han-mono](https://github.com/adobe-fonts/source-han-mono) - Source Han Mono | 思源等宽 | 思源等寬 | 思源等寬 香港 | 源ノ等幅 | 본모노
 - [lxgw/yozai-font](https://github.com/lxgw/yozai-font) - A Chinese handwriting font derived from YozFont. 一款衍生于 YozFont 的中文手写字型。
 - [ButTaiwan/genryu-font](https://github.com/ButTaiwan/genryu-font) - A free font family derived from Source Han Serif.
@@ -396,14 +398,12 @@
 
 - [studiobutter/anime_api](https://github.com/studiobutter/anime_api) - 
 - [zerebos/Nox](https://github.com/zerebos/Nox) - A beautiful dark material theme for Discord
-- [DiscordStyles/HorizontalServerList](https://github.com/DiscordStyles/HorizontalServerList) - Moves the server list from the left to the top of Discord.
 - [TakosThings/Metro-for-Discord](https://github.com/TakosThings/Metro-for-Discord) - Make your Discord client look like a UWP app.
 - [CapnKitten/BetterDiscord](https://github.com/CapnKitten/BetterDiscord) - 
 
 ## Shell 
 
 - [automazeio/ccpm](https://github.com/automazeio/ccpm) - Project management skill system for Agents that uses GitHub Issues and Git worktrees for parallel agent execution.
-- [TrionesType/zhuque](https://github.com/TrionesType/zhuque) - 朱雀仿宋/朱雀宋朝/Zhuque Fangsong: An open-source Fangsong typeface project
 - [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조
 
 ## Svelte 
