@@ -158,7 +158,6 @@
 
 ## JavaScript 
 
-- [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [pickle-com/glass](https://github.com/pickle-com/glass) - Digital Mind Extension
 - [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
