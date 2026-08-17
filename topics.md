@@ -265,7 +265,7 @@
 ## awesome 
 
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - The definitive list that answers "I want to do X in Python, which tool should I use?"
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 
 ## awesome-list 
@@ -1197,7 +1197,7 @@
 - [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
 - [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
 - [pur1fying/blue_archive_auto_script](https://github.com/pur1fying/blue_archive_auto_script) - 支持按轴凹总力战, 无缝制造三解, 用于实现蔚蓝档案自动化的程序( Steam已适配 )
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - The definitive list that answers "I want to do X in Python, which tool should I use?"
 - [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) - Generate Pydantic v2 models, dataclasses, TypedDict, and msgspec.Struct from OpenAPI, JSON Schema, GraphQL, Avro, Protobuf, and raw JSON/YAML/CSV.
 - [seriaati/yatta](https://github.com/seriaati/yatta) - Async API wrapper for Project Yatta (sr.yatta.moe) written in Python
 - [seriaati/ambr](https://github.com/seriaati/ambr) - Async API wrapper for Project Amber (gi.yatta.moe) written in Python
