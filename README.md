@@ -376,6 +376,7 @@
 
 ## Rust 
 
+- [meowrch/BlueVein](https://github.com/meowrch/BlueVein) - Cross-platform tool to automatically synchronize Bluetooth pairing keys between Linux and Windows on dual-boot systems.
 - [Gelbpunkt/gateway-proxy](https://github.com/Gelbpunkt/gateway-proxy) - Drop-in proxy for Discord gateway connections and sessions allowing for zero downtime deploys
 - [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
 - [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time.
@@ -477,7 +478,7 @@
 
 - [zyronon/TypeWords](https://github.com/zyronon/TypeWords) - Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步；
 - [BewlyBewly/BewlyBewly](https://github.com/BewlyBewly/BewlyBewly) - Just make a few small changes to your Bilibili homepage. (English | 简体中文 | 正體中文 | 廣東話)
-- [miantiao-me/Sink](https://github.com/miantiao-me/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
+- [miantiao-me/Sink](https://github.com/miantiao-me/Sink) - ⚡ A Simple, Speedy, Secure, and Serverless Link Shortener with Analytics, Running Entirely on Cloudflare.
 - [man90es/Genshin-Party-Builder](https://github.com/man90es/Genshin-Party-Builder) - Automatic party creation tool for Genshin Impact.
 
 
