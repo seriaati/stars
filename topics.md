@@ -774,7 +774,6 @@
 
 ## linux 
 
-- [meowrch/BlueVein](https://github.com/meowrch/BlueVein) - Cross-platform tool to automatically synchronize Bluetooth pairing keys between Linux and Windows on dual-boot systems.
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
 - [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A fast, open-source, modern image viewer for 90+ formats – including WEBP, GIF, SVG, AVIF, JXL, HEIC and more – built for smooth browsing across Windows, macOS, and Linux.
@@ -1429,7 +1428,6 @@
 
 ## windows 
 
-- [meowrch/BlueVein](https://github.com/meowrch/BlueVein) - Cross-platform tool to automatically synchronize Bluetooth pairing keys between Linux and Windows on dual-boot systems.
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
 - [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray
