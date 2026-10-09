@@ -255,7 +255,6 @@
 - [seriaati/box-com-downloader](https://github.com/seriaati/box-com-downloader) - Download protected files from box.com
 - [OliBomby/Mapperatorinator](https://github.com/OliBomby/Mapperatorinator) - An AI framework for generating and modding osu! beatmaps for all gamemodes from spectrogram inputs.
 - [seriaati/kamihime-auto](https://github.com/seriaati/kamihime-auto) - 神姬Project 自動化 Kamihime Project game automation bot
-- [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - A privacy-first app that strips AI watermarks from content you own.
 - [seriaati/roler](https://github.com/seriaati/roler) - Discord bot for creating advanced and descriptive role panels easily
 - [ok-oldking/ok-script](https://github.com/ok-oldking/ok-script) - Modern Python Computer Vision Automation Framework
 - [cloudwithax/pomice](https://github.com/cloudwithax/pomice) - The modern Lavalink wrapper designed for discord.py
@@ -377,6 +376,7 @@
 
 ## Rust 
 
+- [talwat/lowfi](https://github.com/talwat/lowfi) - An extremely simple lofi player.
 - [Gelbpunkt/gateway-proxy](https://github.com/Gelbpunkt/gateway-proxy) - Drop-in proxy for Discord gateway connections and sessions allowing for zero downtime deploys
 - [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
 - [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time.
