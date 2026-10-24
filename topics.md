@@ -61,6 +61,7 @@
 - [documentation](#documentation)
 - [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
+- [downloader](#downloader)
 - [electron](#electron)
 - [emoji](#emoji)
 - [ethereum](#ethereum)
@@ -541,6 +542,10 @@
 - [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
 - [Pixeval/Pixeval](https://github.com/Pixeval/Pixeval) - Wow. Yet another Pixiv client!
 - [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse) - An Advanced Launcher for miHoYo/HoYoverse Games
+
+## downloader 
+
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 
 ## electron 
 
