@@ -170,7 +170,7 @@
 - [Avenshy/majsoul_mod_plus](https://github.com/Avenshy/majsoul_mod_plus) - 雀魂解锁全角色、皮肤、装扮等，支持全部服务器。
 - [Jimboom7/AlphaJong](https://github.com/Jimboom7/AlphaJong) - A Mahjong AI for Mahjong Soul
 - [zyr17/MajsoulPaipuAnalyzer](https://github.com/zyr17/MajsoulPaipuAnalyzer) - 雀魂牌谱分析工具
-- [kongying-tavern/yuan-shen-map](https://github.com/kongying-tavern/yuan-shen-map) - 🗺️ 空荧酒馆原神地图网页版仓库（v1）
+- [kongying-tavern/genshin-web-v1](https://github.com/kongying-tavern/genshin-web-v1) - 🗺️ 空荧酒馆原神地图网页版仓库（v1）
 - [gwennlbh/smooth-cursorify](https://github.com/gwennlbh/smooth-cursorify) - Applies a Microsoft Word-like smooth caret animation to multiple online editors
 - [MadeBaruna/paimon-moe](https://github.com/MadeBaruna/paimon-moe) - Your best Genshin Impact companion! Help you plan what to farm with ascension calculator and database. Also track your progress with todo and wish counter.
 - [biuuu/genshin-wish-export](https://github.com/biuuu/genshin-wish-export) - Easily export the Genshin Impact wish record.
