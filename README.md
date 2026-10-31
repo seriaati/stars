@@ -416,6 +416,7 @@
 
 ## TypeScript 
 
+- [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
 - [seriaati/keni](https://github.com/seriaati/keni) - Open-source AI personal finance tracker
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
 - [resumx/resumx](https://github.com/resumx/resumx) - Resume renderer for Claude Code.
