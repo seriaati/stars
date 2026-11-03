@@ -138,7 +138,7 @@
 - [txperl/PixivBiu](https://github.com/txperl/PixivBiu) - A Pixiv client. Easy to search, browse, and download artworks.
 - [irbis-sh/zen-desktop](https://github.com/irbis-sh/zen-desktop) - System-wide ad-blocker and privacy guard for Windows, macOS and Linux.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
-- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform.
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform. 1Panel 是专门为 AI 服务器打造的管理面板。
 - [EndlessCheng/mahjong-helper](https://github.com/EndlessCheng/mahjong-helper) - 日本麻将助手：牌效+防守+记牌（支持雀魂、天凤）
 
 ## HTML 
@@ -253,15 +253,15 @@
 
 ## Python 
 
+- [seriaati/kanso](https://github.com/seriaati/kanso) - A calm, open-source email client for reaching inbox zero
 - [seriaati/mochi](https://github.com/seriaati/mochi) - A small personal dashboard for managing freelance work
 - [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) - The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
 - [seriaati/box-com-downloader](https://github.com/seriaati/box-com-downloader) - Download protected files from box.com
 - [OliBomby/Mapperatorinator](https://github.com/OliBomby/Mapperatorinator) - An AI framework for generating and modding osu! beatmaps for all gamemodes from spectrogram inputs.
 - [seriaati/kamihime-auto](https://github.com/seriaati/kamihime-auto) - 神姬Project 自動化 Kamihime Project game automation bot
 - [seriaati/roler](https://github.com/seriaati/roler) - Discord bot for creating advanced and descriptive role panels easily
-- [ok-oldking/ok-script](https://github.com/ok-oldking/ok-script) - Python Automation Framework for MCP development
+- [ok-oldking/ok-script](https://github.com/ok-oldking/ok-script) - Vibe Coding Automation Framework
 - [cloudwithax/pomice](https://github.com/cloudwithax/pomice) - The modern Lavalink wrapper designed for discord.py
-- [suitenumerique/docs](https://github.com/suitenumerique/docs) - Docs is an open-source text editor: web-native, made for real-time collaboration, cleanly structured documents and sub-documents with full ownership of your data. Built to scale with Django and React.
 - [steve07s/Artale-Channel-Broadcast-System](https://github.com/steve07s/Artale-Channel-Broadcast-System) - 
 - [sabuhish/fastapi-mail](https://github.com/sabuhish/fastapi-mail) - Fastapi mail system sending mails(individual, bulk) attachments(individual, bulk)
 - [facebed/facebed](https://github.com/facebed/facebed) - facebook embed provider for messaging apps
@@ -326,7 +326,7 @@
 - [seriaati/yatta](https://github.com/seriaati/yatta) - Async API wrapper for Project Yatta (sr.yatta.moe) written in Python
 - [seriaati/ambr](https://github.com/seriaati/ambr) - Async API wrapper for Project Amber (gi.yatta.moe) written in Python
 - [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers
-- [moesnow/March7thAssistant](https://github.com/moesnow/March7thAssistant) - 崩坏：星穹铁道全自动 三月七小助手
+- [moesnow/March7thAssistant](https://github.com/moesnow/March7thAssistant) - 日常交给三月七，开拓留给你。《崩坏：星穹铁道》开源自动化助手。
 - [RobertCraigie/prisma-client-py](https://github.com/RobertCraigie/prisma-client-py) - Prisma Client Python is an auto-generated and fully type-safe database client designed for ease of use
 - [smithyhq/sqladmin](https://github.com/smithyhq/sqladmin) - SQLAlchemy Admin for FastAPI and Starlette
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
@@ -427,6 +427,7 @@
 - [curiousgeorgios/linear-gratis](https://github.com/curiousgeorgios/linear-gratis) - A 100% free forever platform to extend the customer facing capabilities of linear.app
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [LumiFae/enka.cards](https://github.com/LumiFae/enka.cards) - Generates an image of your specified card from enka.network in a nice embed (also has a image API for other services)
+- [suitenumerique/docs](https://github.com/suitenumerique/docs) - Docs is an open-source text editor: web-native, made for real-time collaboration, cleanly structured documents and sub-documents with full ownership of your data. Built to scale with Django and React.
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code) - Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report
 - [ajayyy/DeArrow](https://github.com/ajayyy/DeArrow) - Crowdsourcing better titles and thumbnails on YouTube
