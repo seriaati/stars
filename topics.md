@@ -184,7 +184,7 @@
 ## agent 
 
 - [ntegrals/december](https://github.com/ntegrals/december) - A fully local Loveable, Replit, Bolt, v0 alternative that you can run with your own LLM. No monthly subscriptions, private by default.
-- [xming521/WeClone](https://github.com/xming521/WeClone) - Build a portrait of your life. Assistants that know you. Clones that talk like you.
+- [xming521/WeClone](https://github.com/xming521/WeClone) - Build a portrait of your life. Assistants that know you better. Clones that sound more like you.
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform. 1Panel 是专门为 AI 服务器打造的管理面板。
 
 ## agent-skills 
@@ -828,7 +828,7 @@
 
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
 - [ntegrals/december](https://github.com/ntegrals/december) - A fully local Loveable, Replit, Bolt, v0 alternative that you can run with your own LLM. No monthly subscriptions, private by default.
-- [xming521/WeClone](https://github.com/xming521/WeClone) - Build a portrait of your life. Assistants that know you. Clones that talk like you.
+- [xming521/WeClone](https://github.com/xming521/WeClone) - Build a portrait of your life. Assistants that know you better. Clones that sound more like you.
 - [TingsongYu/PyTorch-Tutorial-2nd](https://github.com/TingsongYu/PyTorch-Tutorial-2nd) - 《Pytorch实用教程》（第二版）无论是零基础入门，还是CV、NLP、LLM项目应用，或是进阶工程化部署落地，在这里都有。相信在本书的帮助下，读者将能够轻松掌握 PyTorch 的使用，成为一名优秀的深度学习工程师。
 
 ## machine-learning 
@@ -873,7 +873,7 @@
 - [seriaati/mochi](https://github.com/seriaati/mochi) - A small personal dashboard for managing freelance work
 - [Sylinko/Everywhere](https://github.com/Sylinko/Everywhere) - On-screen aware AI assistant for your desktop. Uses current app context, multiple LLMs, and MCP tools to help you act across apps.
 - [ok-oldking/ok-script](https://github.com/ok-oldking/ok-script) - Vibe Coding Automation Framework
-- [xming521/WeClone](https://github.com/xming521/WeClone) - Build a portrait of your life. Assistants that know you. Clones that talk like you.
+- [xming521/WeClone](https://github.com/xming521/WeClone) - Build a portrait of your life. Assistants that know you better. Clones that sound more like you.
 
 ## microservices 
 
@@ -1377,7 +1377,7 @@
 
 ## telegram 
 
-- [xming521/WeClone](https://github.com/xming521/WeClone) - Build a portrait of your life. Assistants that know you. Clones that talk like you.
+- [xming521/WeClone](https://github.com/xming521/WeClone) - Build a portrait of your life. Assistants that know you better. Clones that sound more like you.
 - [Wikidepia/InstaFix](https://github.com/Wikidepia/InstaFix) - Fix Instagram embeds in Discord (and Telegram!)
 
 ## tensorflow 
