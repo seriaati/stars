@@ -267,7 +267,7 @@
 - [gaogaotiantian/dowhen](https://github.com/gaogaotiantian/dowhen) - An intuitive and low-overhead instrumentation tool for Python
 - [CatharsisFonts/Ysabeau](https://github.com/CatharsisFonts/Ysabeau) - Ysabeau: The essence of Garamond in an open-source sans-serif typeface
 - [zuruoke/watermark-removal](https://github.com/zuruoke/watermark-removal) - a machine learning image inpainting task that instinctively removes watermarks from image indistinguishable from the ground truth image
-- [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/ (no longer working)
+- [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/ https://greasyfork.org/en/scripts/437569-cotrans-manga-image-translator-regular-edition
 - [xming521/WeClone](https://github.com/xming521/WeClone) - Build a portrait of your life. Assistants that know you better. Clones that sound more like you.
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 - [pyper-dev/pyper](https://github.com/pyper-dev/pyper) - Concurrent Python made simple
