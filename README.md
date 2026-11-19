@@ -416,6 +416,7 @@
 
 ## TypeScript 
 
+- [seriaati/hadal](https://github.com/seriaati/hadal) - Web game where rarer answers take you deeper into the sea
 - [seriaati/cte2-db](https://github.com/seriaati/cte2-db) - Fan-made database site for the Minecraft modpack Craft to Exile 2
 - [seriaati/keni](https://github.com/seriaati/keni) - Open-source AI personal finance tracker
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
