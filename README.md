@@ -53,6 +53,7 @@
 
 ## C# # 
 
+- [seriaati/touhou-chess-analyzer](https://github.com/seriaati/touhou-chess-analyzer) - Card-aware move analyzer for Touhou Chess
 - [Lainmode/InstagramEmbed-vxinstagram](https://github.com/Lainmode/InstagramEmbed-vxinstagram) - 
 - [Sylinko/Everywhere](https://github.com/Sylinko/Everywhere) - On-screen aware AI assistant for your desktop. Uses current app context, multiple LLMs, and MCP tools to help you act across apps.
 - [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
@@ -353,7 +354,7 @@
 - [seriaati/card_game](https://github.com/seriaati/card_game) - Implementation of Genshin Impact's TCG in Discord
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [Hu-tao-bot/login-service-library-python](https://github.com/Hu-tao-bot/login-service-library-python) - 
-- [c3kay/hoyolab-rss-feeds](https://github.com/c3kay/hoyolab-rss-feeds) - RSS feed (JSON & Atom) generator for official game news from Hoyolab.
+- [c3kay/hoyolab-rss-feeds](https://github.com/c3kay/hoyolab-rss-feeds) - RSS feed (JSON & Atom) generator for Hoyoverse games
 - [y1ndan/genshinhelper2](https://github.com/y1ndan/genshinhelper2) - A Python library for miHoYo bbs and HoYoLAB Community. genshin 原神签到小助手 树脂提醒 微博超话 米游社米游币 崩坏3
 - [ImNimboss/dshell](https://github.com/ImNimboss/dshell) - DShell, a tool that combines with discord.py and Jishaku to present to you, shell channels.
 - [scarletcafe/jishaku](https://github.com/scarletcafe/jishaku) - A debugging and testing cog for discord.py rewrite bots.
