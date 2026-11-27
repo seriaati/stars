@@ -967,6 +967,7 @@
 
 ## others 
 
+- [seriaati/touhou-chess-analyzer](https://github.com/seriaati/touhou-chess-analyzer) - Card-aware move analyzer for Touhou Chess
 - [seriaati/hadal](https://github.com/seriaati/hadal) - Web game where rarer answers take you deeper into the sea
 - [seriaati/cte2-db](https://github.com/seriaati/cte2-db) - Fan-made database site for the Minecraft modpack Craft to Exile 2
 - [seriaati/kanso](https://github.com/seriaati/kanso) - A calm, open-source email client for reaching inbox zero
@@ -1078,7 +1079,7 @@
 - [zeroruka/GI-Assets](https://github.com/zeroruka/GI-Assets) - Character textures, models and mods for a certain anime game.
 - [Hu-tao-bot/login-service-library-python](https://github.com/Hu-tao-bot/login-service-library-python) - 
 - [GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar) - Open-source alternative of Discord desktop's app.asar
-- [c3kay/hoyolab-rss-feeds](https://github.com/c3kay/hoyolab-rss-feeds) - RSS feed (JSON & Atom) generator for official game news from Hoyolab.
+- [c3kay/hoyolab-rss-feeds](https://github.com/c3kay/hoyolab-rss-feeds) - RSS feed (JSON & Atom) generator for Hoyoverse games
 - [imbushuo/EnergyStar](https://github.com/imbushuo/EnergyStar) - A terrible application setting SV2 Efficiency Mode for inactive Windows apps and user background apps
 - [Avenshy/majsoul_mod_plus](https://github.com/Avenshy/majsoul_mod_plus) - 雀魂解锁全角色、皮肤、装扮等，支持全部服务器。
 - [zerebos/Nox](https://github.com/zerebos/Nox) - A beautiful dark material theme for Discord
