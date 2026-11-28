@@ -253,6 +253,7 @@
 
 ## Python 
 
+- [seriaati/fxrednote](https://github.com/seriaati/fxrednote) - Fixes rednote (小红书 / xiaohongshu) link previews on Discord
 - [seriaati/kanso](https://github.com/seriaati/kanso) - A calm, open-source email client for reaching inbox zero
 - [seriaati/mochi](https://github.com/seriaati/mochi) - A small personal dashboard for managing freelance work
 - [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) - The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
@@ -417,6 +418,7 @@
 
 ## TypeScript 
 
+- [seriaati/undoom](https://github.com/seriaati/undoom) - Stop the doom, keep the scroll
 - [seriaati/hadal](https://github.com/seriaati/hadal) - Web game where rarer answers take you deeper into the sea
 - [seriaati/cte2-db](https://github.com/seriaati/cte2-db) - Fan-made database site for the Minecraft modpack Craft to Exile 2
 - [seriaati/keni](https://github.com/seriaati/keni) - Open-source AI personal finance tracker
