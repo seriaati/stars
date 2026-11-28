@@ -967,6 +967,8 @@
 
 ## others 
 
+- [seriaati/fxrednote](https://github.com/seriaati/fxrednote) - Fixes rednote (小红书 / xiaohongshu) link previews on Discord
+- [seriaati/undoom](https://github.com/seriaati/undoom) - Stop the doom, keep the scroll
 - [seriaati/touhou-chess-analyzer](https://github.com/seriaati/touhou-chess-analyzer) - Card-aware move analyzer for Touhou Chess
 - [seriaati/hadal](https://github.com/seriaati/hadal) - Web game where rarer answers take you deeper into the sea
 - [seriaati/cte2-db](https://github.com/seriaati/cte2-db) - Fan-made database site for the Minecraft modpack Craft to Exile 2
